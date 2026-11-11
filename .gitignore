@@ -1,0 +1,8 @@
+node_modules/
+release/
+frontend/dist/
+.local-data/
+.taste-skill/
+test-results/
+*.log
+__pycache__/

@@ -1,0 +1,2 @@
+const { contextBridge, ipcRenderer } = require('electron');
+contextBridge.exposeInMainWorld('helper', { onSelection: callback => ipcRenderer.on('selection', (_, text) => callback(text)), lookup: text => ipcRenderer.invoke('lookup', text), save: data => ipcRenderer.invoke('save-word', data), saveExercise: data => ipcRenderer.invoke('save-selection-exercise', data), openSettings: () => ipcRenderer.send('open-settings'), openSelection: () => ipcRenderer.send('open-selection'), close: () => ipcRenderer.send('close-popup') });

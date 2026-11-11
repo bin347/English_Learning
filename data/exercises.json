@@ -1,0 +1,5316 @@
+[
+  {
+    "id": "original-practice-001",
+    "text": "I usually get up at seven.",
+    "reference": "我通常七点起床。",
+    "keywords": [
+      {
+        "english": "usually",
+        "translations": [
+          "通常",
+          "一般"
+        ]
+      },
+      {
+        "english": "get up",
+        "translations": [
+          "起床"
+        ]
+      },
+      {
+        "english": "seven",
+        "translations": [
+          "七点",
+          "7点"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-002",
+    "text": "Please put the milk in the fridge.",
+    "reference": "请把牛奶放进冰箱。",
+    "keywords": [
+      {
+        "english": "put",
+        "translations": [
+          "放"
+        ]
+      },
+      {
+        "english": "milk",
+        "translations": [
+          "牛奶"
+        ]
+      },
+      {
+        "english": "fridge",
+        "translations": [
+          "冰箱"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-003",
+    "text": "My sister walks to school every day.",
+    "reference": "我妹妹每天步行上学。",
+    "keywords": [
+      {
+        "english": "My sister",
+        "translations": [
+          "我妹妹",
+          "我姐姐"
+        ]
+      },
+      {
+        "english": "walks",
+        "translations": [
+          "步行",
+          "走路"
+        ]
+      },
+      {
+        "english": "every day",
+        "translations": [
+          "每天"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-004",
+    "text": "The soup is too hot to drink.",
+    "reference": "汤太烫了，不能喝。",
+    "keywords": [
+      {
+        "english": "soup",
+        "translations": [
+          "汤"
+        ]
+      },
+      {
+        "english": "too hot",
+        "translations": [
+          "太烫",
+          "太热"
+        ]
+      },
+      {
+        "english": "to drink",
+        "translations": [
+          "喝"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-005",
+    "text": "We need some bread for breakfast.",
+    "reference": "我们早餐需要一些面包。",
+    "keywords": [
+      {
+        "english": "need",
+        "translations": [
+          "需要"
+        ]
+      },
+      {
+        "english": "bread",
+        "translations": [
+          "面包"
+        ]
+      },
+      {
+        "english": "breakfast",
+        "translations": [
+          "早餐",
+          "早饭"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-006",
+    "text": "Could you open the window, please?",
+    "reference": "请你打开窗户好吗？",
+    "keywords": [
+      {
+        "english": "Could you",
+        "translations": [
+          "请你",
+          "能不能",
+          "可以"
+        ]
+      },
+      {
+        "english": "open",
+        "translations": [
+          "打开"
+        ]
+      },
+      {
+        "english": "window",
+        "translations": [
+          "窗户",
+          "窗"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-007",
+    "text": "There are two cats under the table.",
+    "reference": "桌子下面有两只猫。",
+    "keywords": [
+      {
+        "english": "two cats",
+        "translations": [
+          "两只猫",
+          "两只小猫"
+        ]
+      },
+      {
+        "english": "under",
+        "translations": [
+          "下面",
+          "底下"
+        ]
+      },
+      {
+        "english": "table",
+        "translations": [
+          "桌子",
+          "桌"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-008",
+    "text": "I left my keys on the sofa.",
+    "reference": "我把钥匙落在沙发上了。",
+    "keywords": [
+      {
+        "english": "left",
+        "translations": [
+          "落在",
+          "忘在",
+          "留在"
+        ]
+      },
+      {
+        "english": "keys",
+        "translations": [
+          "钥匙"
+        ]
+      },
+      {
+        "english": "sofa",
+        "translations": [
+          "沙发"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-009",
+    "text": "Let us cook dinner together tonight.",
+    "reference": "今晚我们一起做晚饭吧。",
+    "keywords": [
+      {
+        "english": "tonight",
+        "translations": [
+          "今晚",
+          "今天晚上"
+        ]
+      },
+      {
+        "english": "cook dinner",
+        "translations": [
+          "做晚饭",
+          "做饭"
+        ]
+      },
+      {
+        "english": "together",
+        "translations": [
+          "一起"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-010",
+    "text": "The shop is closed on Sundays.",
+    "reference": "这家商店星期天不营业。",
+    "keywords": [
+      {
+        "english": "shop",
+        "translations": [
+          "商店",
+          "店"
+        ]
+      },
+      {
+        "english": "closed",
+        "translations": [
+          "不营业",
+          "关门"
+        ]
+      },
+      {
+        "english": "Sundays",
+        "translations": [
+          "星期天",
+          "周日",
+          "星期日"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-011",
+    "text": "The next train leaves at nine.",
+    "reference": "下一班火车九点出发。",
+    "keywords": [
+      {
+        "english": "next train",
+        "translations": [
+          "下一班火车"
+        ]
+      },
+      {
+        "english": "leaves",
+        "translations": [
+          "出发",
+          "开车"
+        ]
+      },
+      {
+        "english": "nine",
+        "translations": [
+          "九点",
+          "9点"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-012",
+    "text": "I would like a window seat.",
+    "reference": "我想要一个靠窗的座位。",
+    "keywords": [
+      {
+        "english": "would like",
+        "translations": [
+          "想要",
+          "想坐"
+        ]
+      },
+      {
+        "english": "window",
+        "translations": [
+          "靠窗",
+          "窗边"
+        ]
+      },
+      {
+        "english": "seat",
+        "translations": [
+          "座位"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-013",
+    "text": "Please show me your ticket.",
+    "reference": "请给我看一下你的票。",
+    "keywords": [
+      {
+        "english": "show me",
+        "translations": [
+          "给我看",
+          "让我看"
+        ]
+      },
+      {
+        "english": "your",
+        "translations": [
+          "你的"
+        ]
+      },
+      {
+        "english": "ticket",
+        "translations": [
+          "票"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-014",
+    "text": "Turn left at the traffic lights.",
+    "reference": "在红绿灯处左转。",
+    "keywords": [
+      {
+        "english": "Turn left",
+        "translations": [
+          "左转",
+          "向左转"
+        ]
+      },
+      {
+        "english": "at",
+        "translations": [
+          "在"
+        ]
+      },
+      {
+        "english": "traffic lights",
+        "translations": [
+          "红绿灯",
+          "交通信号灯"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-015",
+    "text": "Our hotel is near the beach.",
+    "reference": "我们的酒店在海滩附近。",
+    "keywords": [
+      {
+        "english": "Our hotel",
+        "translations": [
+          "我们的酒店",
+          "我们的旅馆"
+        ]
+      },
+      {
+        "english": "near",
+        "translations": [
+          "附近",
+          "靠近"
+        ]
+      },
+      {
+        "english": "beach",
+        "translations": [
+          "海滩",
+          "沙滩"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-016",
+    "text": "How long does the bus ride take?",
+    "reference": "坐公交车要多长时间？",
+    "keywords": [
+      {
+        "english": "How long",
+        "translations": [
+          "多长时间",
+          "多久"
+        ]
+      },
+      {
+        "english": "bus",
+        "translations": [
+          "公交车",
+          "公共汽车"
+        ]
+      },
+      {
+        "english": "ride",
+        "translations": [
+          "坐",
+          "乘"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-017",
+    "text": "Do not leave your bag here.",
+    "reference": "不要把你的包留在这里。",
+    "keywords": [
+      {
+        "english": "Do not",
+        "translations": [
+          "不要",
+          "别"
+        ]
+      },
+      {
+        "english": "bag",
+        "translations": [
+          "包"
+        ]
+      },
+      {
+        "english": "here",
+        "translations": [
+          "这里",
+          "这儿"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-018",
+    "text": "The museum opens at ten in the morning.",
+    "reference": "博物馆上午十点开门。",
+    "keywords": [
+      {
+        "english": "museum",
+        "translations": [
+          "博物馆"
+        ]
+      },
+      {
+        "english": "opens",
+        "translations": [
+          "开门",
+          "开放"
+        ]
+      },
+      {
+        "english": "ten in the morning",
+        "translations": [
+          "上午十点",
+          "早上十点"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-019",
+    "text": "We can buy water at the station.",
+    "reference": "我们可以在车站买水。",
+    "keywords": [
+      {
+        "english": "buy",
+        "translations": [
+          "买"
+        ]
+      },
+      {
+        "english": "water",
+        "translations": [
+          "水"
+        ]
+      },
+      {
+        "english": "station",
+        "translations": [
+          "车站"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-020",
+    "text": "Please keep your passport in a safe place.",
+    "reference": "请把你的护照放在安全的地方。",
+    "keywords": [
+      {
+        "english": "passport",
+        "translations": [
+          "护照"
+        ]
+      },
+      {
+        "english": "keep",
+        "translations": [
+          "放",
+          "保管"
+        ]
+      },
+      {
+        "english": "safe place",
+        "translations": [
+          "安全的地方",
+          "安全处"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-021",
+    "text": "I write new words in this notebook.",
+    "reference": "我把生词写在这个笔记本里。",
+    "keywords": [
+      {
+        "english": "new words",
+        "translations": [
+          "生词",
+          "新单词"
+        ]
+      },
+      {
+        "english": "write",
+        "translations": [
+          "写"
+        ]
+      },
+      {
+        "english": "notebook",
+        "translations": [
+          "笔记本"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-022",
+    "text": "Can you explain this question again?",
+    "reference": "你能再解释一下这道题吗？",
+    "keywords": [
+      {
+        "english": "explain",
+        "translations": [
+          "解释"
+        ]
+      },
+      {
+        "english": "question",
+        "translations": [
+          "题",
+          "问题"
+        ]
+      },
+      {
+        "english": "again",
+        "translations": [
+          "再",
+          "再次"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-023",
+    "text": "Our English class starts after lunch.",
+    "reference": "我们的英语课在午饭后开始。",
+    "keywords": [
+      {
+        "english": "English class",
+        "translations": [
+          "英语课"
+        ]
+      },
+      {
+        "english": "starts",
+        "translations": [
+          "开始"
+        ]
+      },
+      {
+        "english": "after lunch",
+        "translations": [
+          "午饭后",
+          "午餐后"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-024",
+    "text": "She reads a short story every night.",
+    "reference": "她每天晚上读一个短篇故事。",
+    "keywords": [
+      {
+        "english": "reads",
+        "translations": [
+          "读"
+        ]
+      },
+      {
+        "english": "short story",
+        "translations": [
+          "短篇故事",
+          "小故事"
+        ]
+      },
+      {
+        "english": "every night",
+        "translations": [
+          "每天晚上",
+          "每晚"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-025",
+    "text": "Please speak a little more slowly.",
+    "reference": "请说得再慢一点。",
+    "keywords": [
+      {
+        "english": "Please",
+        "translations": [
+          "请"
+        ]
+      },
+      {
+        "english": "speak",
+        "translations": [
+          "说"
+        ]
+      },
+      {
+        "english": "more slowly",
+        "translations": [
+          "再慢",
+          "慢一点"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-026",
+    "text": "I do my homework before dinner.",
+    "reference": "我在晚饭前做作业。",
+    "keywords": [
+      {
+        "english": "homework",
+        "translations": [
+          "作业"
+        ]
+      },
+      {
+        "english": "before",
+        "translations": [
+          "前"
+        ]
+      },
+      {
+        "english": "dinner",
+        "translations": [
+          "晚饭",
+          "晚餐"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-027",
+    "text": "This dictionary has clear examples.",
+    "reference": "这本词典有清楚的例句。",
+    "keywords": [
+      {
+        "english": "dictionary",
+        "translations": [
+          "词典",
+          "字典"
+        ]
+      },
+      {
+        "english": "clear",
+        "translations": [
+          "清楚",
+          "清晰"
+        ]
+      },
+      {
+        "english": "examples",
+        "translations": [
+          "例句",
+          "例子"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-028",
+    "text": "We study history on Friday afternoons.",
+    "reference": "我们星期五下午学历史。",
+    "keywords": [
+      {
+        "english": "study",
+        "translations": [
+          "学"
+        ]
+      },
+      {
+        "english": "history",
+        "translations": [
+          "历史"
+        ]
+      },
+      {
+        "english": "Friday afternoons",
+        "translations": [
+          "星期五下午",
+          "周五下午"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-029",
+    "text": "You can ask the teacher for help.",
+    "reference": "你可以向老师求助。",
+    "keywords": [
+      {
+        "english": "can",
+        "translations": [
+          "可以"
+        ]
+      },
+      {
+        "english": "teacher",
+        "translations": [
+          "老师"
+        ]
+      },
+      {
+        "english": "ask",
+        "translations": [
+          "求助",
+          "寻求帮助",
+          "请"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-030",
+    "text": "I made three mistakes in the exercise.",
+    "reference": "我在这道练习中犯了三个错误。",
+    "keywords": [
+      {
+        "english": "three",
+        "translations": [
+          "三个",
+          "三处"
+        ]
+      },
+      {
+        "english": "mistakes",
+        "translations": [
+          "错误"
+        ]
+      },
+      {
+        "english": "exercise",
+        "translations": [
+          "练习"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-031",
+    "text": "The meeting starts in five minutes.",
+    "reference": "会议五分钟后开始。",
+    "keywords": [
+      {
+        "english": "meeting",
+        "translations": [
+          "会议"
+        ]
+      },
+      {
+        "english": "starts",
+        "translations": [
+          "开始"
+        ]
+      },
+      {
+        "english": "in five minutes",
+        "translations": [
+          "五分钟后",
+          "5分钟后"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-032",
+    "text": "Please send the file by email.",
+    "reference": "请通过电子邮件发送这个文件。",
+    "keywords": [
+      {
+        "english": "send",
+        "translations": [
+          "发送",
+          "发"
+        ]
+      },
+      {
+        "english": "file",
+        "translations": [
+          "文件"
+        ]
+      },
+      {
+        "english": "email",
+        "translations": [
+          "电子邮件",
+          "邮件"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-033",
+    "text": "I work from home on Mondays.",
+    "reference": "我星期一在家办公。",
+    "keywords": [
+      {
+        "english": "work",
+        "translations": [
+          "办公",
+          "工作"
+        ]
+      },
+      {
+        "english": "from home",
+        "translations": [
+          "在家"
+        ]
+      },
+      {
+        "english": "Mondays",
+        "translations": [
+          "星期一",
+          "周一"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-034",
+    "text": "Could you print two copies for me?",
+    "reference": "你能帮我打印两份吗？",
+    "keywords": [
+      {
+        "english": "print",
+        "translations": [
+          "打印"
+        ]
+      },
+      {
+        "english": "two copies",
+        "translations": [
+          "两份"
+        ]
+      },
+      {
+        "english": "for me",
+        "translations": [
+          "帮我",
+          "给我"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-035",
+    "text": "Our office is on the third floor.",
+    "reference": "我们的办公室在三楼。",
+    "keywords": [
+      {
+        "english": "Our office",
+        "translations": [
+          "我们的办公室"
+        ]
+      },
+      {
+        "english": "third",
+        "translations": [
+          "三"
+        ]
+      },
+      {
+        "english": "floor",
+        "translations": [
+          "楼",
+          "层"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-036",
+    "text": "I will call you after the meeting.",
+    "reference": "会议结束后我会给你打电话。",
+    "keywords": [
+      {
+        "english": "call you",
+        "translations": [
+          "给你打电话",
+          "打电话给你"
+        ]
+      },
+      {
+        "english": "after",
+        "translations": [
+          "后"
+        ]
+      },
+      {
+        "english": "meeting",
+        "translations": [
+          "会议"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-037",
+    "text": "Please check the date on the form.",
+    "reference": "请核对表格上的日期。",
+    "keywords": [
+      {
+        "english": "check",
+        "translations": [
+          "核对",
+          "检查"
+        ]
+      },
+      {
+        "english": "date",
+        "translations": [
+          "日期"
+        ]
+      },
+      {
+        "english": "form",
+        "translations": [
+          "表格",
+          "表"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-038",
+    "text": "We need more time to finish this task.",
+    "reference": "我们需要更多时间完成这项任务。",
+    "keywords": [
+      {
+        "english": "more time",
+        "translations": [
+          "更多时间"
+        ]
+      },
+      {
+        "english": "finish",
+        "translations": [
+          "完成"
+        ]
+      },
+      {
+        "english": "task",
+        "translations": [
+          "任务"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-039",
+    "text": "The printer is next to the door.",
+    "reference": "打印机在门旁边。",
+    "keywords": [
+      {
+        "english": "printer",
+        "translations": [
+          "打印机"
+        ]
+      },
+      {
+        "english": "next to",
+        "translations": [
+          "旁边",
+          "旁"
+        ]
+      },
+      {
+        "english": "door",
+        "translations": [
+          "门"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-040",
+    "text": "Thank you for helping me today.",
+    "reference": "谢谢你今天帮助我。",
+    "keywords": [
+      {
+        "english": "Thank you",
+        "translations": [
+          "谢谢",
+          "感谢"
+        ]
+      },
+      {
+        "english": "helping me",
+        "translations": [
+          "帮助我",
+          "帮我"
+        ]
+      },
+      {
+        "english": "today",
+        "translations": [
+          "今天"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-041",
+    "text": "Please turn off the lights before you leave.",
+    "reference": "离开前请关灯。",
+    "keywords": [
+      {
+        "english": "turn off",
+        "translations": [
+          "关"
+        ]
+      },
+      {
+        "english": "lights",
+        "translations": [
+          "灯"
+        ]
+      },
+      {
+        "english": "before you leave",
+        "translations": [
+          "离开前",
+          "走之前"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-042",
+    "text": "Many people ride bikes to work.",
+    "reference": "许多人骑自行车上班。",
+    "keywords": [
+      {
+        "english": "Many people",
+        "translations": [
+          "许多人",
+          "很多人"
+        ]
+      },
+      {
+        "english": "ride bikes",
+        "translations": [
+          "骑自行车",
+          "骑车"
+        ]
+      },
+      {
+        "english": "to work",
+        "translations": [
+          "上班"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-043",
+    "text": "We should not waste clean water.",
+    "reference": "我们不应该浪费干净的水。",
+    "keywords": [
+      {
+        "english": "should not",
+        "translations": [
+          "不应该",
+          "不应"
+        ]
+      },
+      {
+        "english": "waste",
+        "translations": [
+          "浪费"
+        ]
+      },
+      {
+        "english": "clean water",
+        "translations": [
+          "干净的水",
+          "清洁的水"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-044",
+    "text": "The library is free for everyone.",
+    "reference": "图书馆对所有人免费开放。",
+    "keywords": [
+      {
+        "english": "library",
+        "translations": [
+          "图书馆"
+        ]
+      },
+      {
+        "english": "free",
+        "translations": [
+          "免费"
+        ]
+      },
+      {
+        "english": "everyone",
+        "translations": [
+          "所有人",
+          "每个人"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-045",
+    "text": "This phone has a large screen.",
+    "reference": "这部手机有一个大屏幕。",
+    "keywords": [
+      {
+        "english": "phone",
+        "translations": [
+          "手机"
+        ]
+      },
+      {
+        "english": "large",
+        "translations": [
+          "大"
+        ]
+      },
+      {
+        "english": "screen",
+        "translations": [
+          "屏幕"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-046",
+    "text": "Children can play safely in this park.",
+    "reference": "孩子们可以在这个公园里安全地玩耍。",
+    "keywords": [
+      {
+        "english": "Children",
+        "translations": [
+          "孩子"
+        ]
+      },
+      {
+        "english": "safely",
+        "translations": [
+          "安全"
+        ]
+      },
+      {
+        "english": "park",
+        "translations": [
+          "公园"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-047",
+    "text": "Our town planted more trees this year.",
+    "reference": "我们镇今年种了更多树。",
+    "keywords": [
+      {
+        "english": "Our town",
+        "translations": [
+          "我们镇",
+          "我们的镇"
+        ]
+      },
+      {
+        "english": "planted",
+        "translations": [
+          "种"
+        ]
+      },
+      {
+        "english": "this year",
+        "translations": [
+          "今年"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-048",
+    "text": "Please put paper in the blue bin.",
+    "reference": "请把纸放进蓝色的垃圾桶。",
+    "keywords": [
+      {
+        "english": "paper",
+        "translations": [
+          "纸"
+        ]
+      },
+      {
+        "english": "blue",
+        "translations": [
+          "蓝色"
+        ]
+      },
+      {
+        "english": "bin",
+        "translations": [
+          "垃圾桶",
+          "回收桶"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-049",
+    "text": "The doctor asked me to get more sleep.",
+    "reference": "医生让我多睡一会儿。",
+    "keywords": [
+      {
+        "english": "doctor",
+        "translations": [
+          "医生"
+        ]
+      },
+      {
+        "english": "asked me",
+        "translations": [
+          "让我",
+          "叫我"
+        ]
+      },
+      {
+        "english": "more sleep",
+        "translations": [
+          "多睡",
+          "增加睡眠"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-050",
+    "text": "We use the internet to find information.",
+    "reference": "我们用互联网查找信息。",
+    "keywords": [
+      {
+        "english": "internet",
+        "translations": [
+          "互联网",
+          "网络"
+        ]
+      },
+      {
+        "english": "find",
+        "translations": [
+          "查找",
+          "寻找"
+        ]
+      },
+      {
+        "english": "information",
+        "translations": [
+          "信息",
+          "资料"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-051",
+    "text": "I have been waiting for the delivery since this morning.",
+    "reference": "我从今天早上起就一直在等快递。",
+    "keywords": [
+      {
+        "english": "have been waiting",
+        "translations": [
+          "一直在等",
+          "一直等"
+        ]
+      },
+      {
+        "english": "delivery",
+        "translations": [
+          "快递",
+          "送货"
+        ]
+      },
+      {
+        "english": "since this morning",
+        "translations": [
+          "从今天早上",
+          "从早上"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-052",
+    "text": "Although the apartment is small, it gets plenty of sunlight.",
+    "reference": "虽然这套公寓很小，但阳光很充足。",
+    "keywords": [
+      {
+        "english": "Although",
+        "translations": [
+          "虽然",
+          "尽管"
+        ]
+      },
+      {
+        "english": "apartment",
+        "translations": [
+          "公寓"
+        ]
+      },
+      {
+        "english": "plenty of sunlight",
+        "translations": [
+          "阳光很充足",
+          "充足的阳光"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-053",
+    "text": "Remember to take an umbrella in case it rains later.",
+    "reference": "记得带伞，以防晚些时候下雨。",
+    "keywords": [
+      {
+        "english": "Remember",
+        "translations": [
+          "记得"
+        ]
+      },
+      {
+        "english": "umbrella",
+        "translations": [
+          "伞"
+        ]
+      },
+      {
+        "english": "in case",
+        "translations": [
+          "以防",
+          "万一"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-054",
+    "text": "I used to stay up late, but now I go to bed earlier.",
+    "reference": "我以前经常熬夜，但现在睡得更早了。",
+    "keywords": [
+      {
+        "english": "used to",
+        "translations": [
+          "以前",
+          "过去"
+        ]
+      },
+      {
+        "english": "stay up late",
+        "translations": [
+          "熬夜"
+        ]
+      },
+      {
+        "english": "earlier",
+        "translations": [
+          "更早"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-055",
+    "text": "We will order dinner unless you feel like cooking tonight.",
+    "reference": "除非你今晚想做饭，否则我们就点晚餐。",
+    "keywords": [
+      {
+        "english": "unless",
+        "translations": [
+          "除非"
+        ]
+      },
+      {
+        "english": "order dinner",
+        "translations": [
+          "点晚餐",
+          "点饭",
+          "叫外卖"
+        ]
+      },
+      {
+        "english": "feel like cooking",
+        "translations": [
+          "想做饭",
+          "愿意做饭"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-056",
+    "text": "The vegetables in this market are fresher than those in the supermarket.",
+    "reference": "这个市场的蔬菜比超市里的更新鲜。",
+    "keywords": [
+      {
+        "english": "vegetables",
+        "translations": [
+          "蔬菜"
+        ]
+      },
+      {
+        "english": "fresher",
+        "translations": [
+          "更新鲜"
+        ]
+      },
+      {
+        "english": "supermarket",
+        "translations": [
+          "超市"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-057",
+    "text": "By the time I got home, everyone had already eaten.",
+    "reference": "等我到家时，大家已经吃过饭了。",
+    "keywords": [
+      {
+        "english": "got home",
+        "translations": [
+          "到家",
+          "回到家"
+        ]
+      },
+      {
+        "english": "everyone",
+        "translations": [
+          "大家",
+          "所有人"
+        ]
+      },
+      {
+        "english": "had already eaten",
+        "translations": [
+          "已经吃过",
+          "已经吃了"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-058",
+    "text": "You do not have to finish everything on your plate.",
+    "reference": "你不必把盘子里的东西全部吃完。",
+    "keywords": [
+      {
+        "english": "do not have to",
+        "translations": [
+          "不必",
+          "不用"
+        ]
+      },
+      {
+        "english": "finish everything",
+        "translations": [
+          "全部吃完",
+          "全吃完"
+        ]
+      },
+      {
+        "english": "plate",
+        "translations": [
+          "盘子",
+          "盘"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-059",
+    "text": "The noise upstairs kept me awake for most of the night.",
+    "reference": "楼上的噪声让我大半夜都睡不着。",
+    "keywords": [
+      {
+        "english": "noise upstairs",
+        "translations": [
+          "楼上的噪声",
+          "楼上的噪音"
+        ]
+      },
+      {
+        "english": "kept me awake",
+        "translations": [
+          "让我",
+          "使我"
+        ]
+      },
+      {
+        "english": "most of the night",
+        "translations": [
+          "大半夜",
+          "大半个晚上",
+          "一夜大半"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-060",
+    "text": "If we plan our meals ahead, we can avoid buying too much food.",
+    "reference": "如果提前安排好每餐，我们就能避免买太多食物。",
+    "keywords": [
+      {
+        "english": "plan",
+        "translations": [
+          "安排",
+          "计划"
+        ]
+      },
+      {
+        "english": "ahead",
+        "translations": [
+          "提前"
+        ]
+      },
+      {
+        "english": "avoid",
+        "translations": [
+          "避免"
+        ]
+      },
+      {
+        "english": "too much food",
+        "translations": [
+          "太多食物",
+          "过多食物"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-061",
+    "text": "The flight was delayed because of heavy snow at the airport.",
+    "reference": "由于机场下大雪，航班延误了。",
+    "keywords": [
+      {
+        "english": "flight",
+        "translations": [
+          "航班"
+        ]
+      },
+      {
+        "english": "delayed",
+        "translations": [
+          "延误",
+          "推迟"
+        ]
+      },
+      {
+        "english": "heavy snow",
+        "translations": [
+          "大雪"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-062",
+    "text": "Could you tell me which platform the train to Oxford leaves from?",
+    "reference": "你能告诉我去牛津的火车从哪个站台发车吗？",
+    "keywords": [
+      {
+        "english": "which platform",
+        "translations": [
+          "哪个站台"
+        ]
+      },
+      {
+        "english": "Oxford",
+        "translations": [
+          "牛津"
+        ]
+      },
+      {
+        "english": "leaves from",
+        "translations": [
+          "发车",
+          "出发"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-063",
+    "text": "We booked the tickets online so that we would not have to queue.",
+    "reference": "我们在网上订了票，这样就不用排队了。",
+    "keywords": [
+      {
+        "english": "booked",
+        "translations": [
+          "订"
+        ]
+      },
+      {
+        "english": "online",
+        "translations": [
+          "网上",
+          "在线"
+        ]
+      },
+      {
+        "english": "not have to queue",
+        "translations": [
+          "不用排队",
+          "不必排队"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-064",
+    "text": "The hotel offers a free shuttle to the airport every hour.",
+    "reference": "酒店每小时提供一班开往机场的免费接驳车。",
+    "keywords": [
+      {
+        "english": "free shuttle",
+        "translations": [
+          "免费接驳车",
+          "免费班车"
+        ]
+      },
+      {
+        "english": "airport",
+        "translations": [
+          "机场"
+        ]
+      },
+      {
+        "english": "every hour",
+        "translations": [
+          "每小时",
+          "每个小时"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-065",
+    "text": "Please let us know in advance if your arrival time changes.",
+    "reference": "如果到达时间有变，请提前告诉我们。",
+    "keywords": [
+      {
+        "english": "arrival time",
+        "translations": [
+          "到达时间",
+          "抵达时间"
+        ]
+      },
+      {
+        "english": "changes",
+        "translations": [
+          "有变",
+          "改变",
+          "变化"
+        ]
+      },
+      {
+        "english": "in advance",
+        "translations": [
+          "提前"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-066",
+    "text": "I would rather take the train than drive through the city centre.",
+    "reference": "比起开车穿过市中心，我更愿意坐火车。",
+    "keywords": [
+      {
+        "english": "would rather",
+        "translations": [
+          "更愿意",
+          "宁愿"
+        ]
+      },
+      {
+        "english": "train",
+        "translations": [
+          "火车"
+        ]
+      },
+      {
+        "english": "city centre",
+        "translations": [
+          "市中心"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-067",
+    "text": "Our luggage had not arrived, so the airline asked us to fill in a form.",
+    "reference": "我们的行李还没到，所以航空公司让我们填写一张表格。",
+    "keywords": [
+      {
+        "english": "luggage",
+        "translations": [
+          "行李"
+        ]
+      },
+      {
+        "english": "had not arrived",
+        "translations": [
+          "还没到",
+          "尚未到达"
+        ]
+      },
+      {
+        "english": "airline",
+        "translations": [
+          "航空公司"
+        ]
+      },
+      {
+        "english": "fill in",
+        "translations": [
+          "填写"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-068",
+    "text": "This ticket allows you to change trains without paying an extra fare.",
+    "reference": "这张票允许你换乘火车，无需额外付费。",
+    "keywords": [
+      {
+        "english": "change trains",
+        "translations": [
+          "换乘火车",
+          "转乘火车"
+        ]
+      },
+      {
+        "english": "without paying",
+        "translations": [
+          "无需",
+          "不用",
+          "不必"
+        ]
+      },
+      {
+        "english": "extra fare",
+        "translations": [
+          "额外付费",
+          "额外车费",
+          "额外费用"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-069",
+    "text": "The walking tour takes about two hours and ends near the old bridge.",
+    "reference": "徒步游览大约需要两小时，终点在老桥附近。",
+    "keywords": [
+      {
+        "english": "walking tour",
+        "translations": [
+          "徒步游览",
+          "步行游览"
+        ]
+      },
+      {
+        "english": "two hours",
+        "translations": [
+          "两小时",
+          "两个小时"
+        ]
+      },
+      {
+        "english": "old bridge",
+        "translations": [
+          "老桥",
+          "旧桥"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-070",
+    "text": "Make sure your phone is charged before you set off.",
+    "reference": "出发前要确保手机已经充好电。",
+    "keywords": [
+      {
+        "english": "Make sure",
+        "translations": [
+          "确保"
+        ]
+      },
+      {
+        "english": "charged",
+        "translations": [
+          "充好电",
+          "充电"
+        ]
+      },
+      {
+        "english": "set off",
+        "translations": [
+          "出发"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-071",
+    "text": "I remember the word better when I see it in a meaningful sentence.",
+    "reference": "在有意义的句子里看到这个单词时，我会记得更牢。",
+    "keywords": [
+      {
+        "english": "remember",
+        "translations": [
+          "记"
+        ]
+      },
+      {
+        "english": "better",
+        "translations": [
+          "更牢",
+          "更好",
+          "更清楚"
+        ]
+      },
+      {
+        "english": "meaningful sentence",
+        "translations": [
+          "有意义的句子",
+          "有意义的例句"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-072",
+    "text": "Instead of translating every word, try to understand the main idea first.",
+    "reference": "不要逐词翻译，先试着理解大意。",
+    "keywords": [
+      {
+        "english": "Instead of",
+        "translations": [
+          "不要",
+          "而不是"
+        ]
+      },
+      {
+        "english": "every word",
+        "translations": [
+          "逐词",
+          "每个词"
+        ]
+      },
+      {
+        "english": "main idea",
+        "translations": [
+          "大意",
+          "主要意思",
+          "主旨"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-073",
+    "text": "The more often you review the notes, the easier they become to remember.",
+    "reference": "你复习笔记越频繁，就越容易记住。",
+    "keywords": [
+      {
+        "english": "review the notes",
+        "translations": [
+          "复习笔记"
+        ]
+      },
+      {
+        "english": "more often",
+        "translations": [
+          "越频繁",
+          "越经常"
+        ]
+      },
+      {
+        "english": "easier",
+        "translations": [
+          "越容易"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-074",
+    "text": "She asked whether we could hand in the report a day later.",
+    "reference": "她问我们能否晚一天提交报告。",
+    "keywords": [
+      {
+        "english": "asked whether",
+        "translations": [
+          "问",
+          "询问"
+        ]
+      },
+      {
+        "english": "hand in",
+        "translations": [
+          "提交",
+          "交"
+        ]
+      },
+      {
+        "english": "day later",
+        "translations": [
+          "晚一天",
+          "推迟一天"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-075",
+    "text": "I could not understand the speaker until I listened a second time.",
+    "reference": "我听了第二遍才理解讲话者的意思。",
+    "keywords": [
+      {
+        "english": "could not",
+        "translations": [
+          "才",
+          "没能",
+          "不能"
+        ]
+      },
+      {
+        "english": "understand",
+        "translations": [
+          "理解",
+          "听懂"
+        ]
+      },
+      {
+        "english": "second time",
+        "translations": [
+          "第二遍",
+          "第二次"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-076",
+    "text": "You are more likely to keep studying if your daily goal is realistic.",
+    "reference": "如果每日目标切合实际，你就更有可能坚持学习。",
+    "keywords": [
+      {
+        "english": "more likely",
+        "translations": [
+          "更有可能",
+          "更可能"
+        ]
+      },
+      {
+        "english": "keep studying",
+        "translations": [
+          "坚持学习",
+          "持续学习"
+        ]
+      },
+      {
+        "english": "realistic",
+        "translations": [
+          "切合实际",
+          "现实",
+          "实际"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-077",
+    "text": "This exercise focuses on understanding meaning rather than memorising a fixed translation.",
+    "reference": "这道练习侧重于理解意思，而不是背诵固定译文。",
+    "keywords": [
+      {
+        "english": "focuses on",
+        "translations": [
+          "侧重",
+          "着重",
+          "注重"
+        ]
+      },
+      {
+        "english": "understanding meaning",
+        "translations": [
+          "理解意思",
+          "理解含义"
+        ]
+      },
+      {
+        "english": "rather than",
+        "translations": [
+          "而不是",
+          "而非"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-078",
+    "text": "Before checking the answer, write down the parts you are unsure about.",
+    "reference": "核对答案之前，先写下你不确定的部分。",
+    "keywords": [
+      {
+        "english": "Before",
+        "translations": [
+          "之前",
+          "前"
+        ]
+      },
+      {
+        "english": "write down",
+        "translations": [
+          "写下",
+          "记下"
+        ]
+      },
+      {
+        "english": "unsure",
+        "translations": [
+          "不确定",
+          "没把握"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-079",
+    "text": "The teacher encouraged us to explain our opinions with examples.",
+    "reference": "老师鼓励我们用例子来解释自己的观点。",
+    "keywords": [
+      {
+        "english": "encouraged",
+        "translations": [
+          "鼓励"
+        ]
+      },
+      {
+        "english": "opinions",
+        "translations": [
+          "观点",
+          "看法"
+        ]
+      },
+      {
+        "english": "examples",
+        "translations": [
+          "例子",
+          "实例"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-080",
+    "text": "Taking a short break can help you concentrate when you return to studying.",
+    "reference": "短暂休息可以帮助你重新学习时集中注意力。",
+    "keywords": [
+      {
+        "english": "short break",
+        "translations": [
+          "短暂休息",
+          "短时间休息"
+        ]
+      },
+      {
+        "english": "concentrate",
+        "translations": [
+          "集中注意力",
+          "专注"
+        ]
+      },
+      {
+        "english": "return to studying",
+        "translations": [
+          "重新学习",
+          "回到学习"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-081",
+    "text": "Could we move the meeting to Thursday so that everyone can attend?",
+    "reference": "我们能把会议改到星期四，让所有人都能参加吗？",
+    "keywords": [
+      {
+        "english": "move the meeting",
+        "translations": [
+          "把会议改",
+          "调整会议",
+          "更改会议"
+        ]
+      },
+      {
+        "english": "Thursday",
+        "translations": [
+          "星期四",
+          "周四"
+        ]
+      },
+      {
+        "english": "everyone",
+        "translations": [
+          "所有人",
+          "大家"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-082",
+    "text": "I have attached the document you asked for to this email.",
+    "reference": "我已把你要的文件附在这封邮件里。",
+    "keywords": [
+      {
+        "english": "attached",
+        "translations": [
+          "附"
+        ]
+      },
+      {
+        "english": "document",
+        "translations": [
+          "文件",
+          "文档"
+        ]
+      },
+      {
+        "english": "email",
+        "translations": [
+          "邮件"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-083",
+    "text": "We should agree on the main priorities before assigning individual tasks.",
+    "reference": "在分配个人任务之前，我们应该先就主要优先事项达成一致。",
+    "keywords": [
+      {
+        "english": "agree",
+        "translations": [
+          "达成一致",
+          "取得共识"
+        ]
+      },
+      {
+        "english": "priorities",
+        "translations": [
+          "优先事项",
+          "重点"
+        ]
+      },
+      {
+        "english": "assigning",
+        "translations": [
+          "分配"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-084",
+    "text": "The project is running behind schedule because two key parts arrived late.",
+    "reference": "由于两个关键零件迟到，项目进度落后了。",
+    "keywords": [
+      {
+        "english": "behind schedule",
+        "translations": [
+          "进度落后",
+          "落后于计划",
+          "延期"
+        ]
+      },
+      {
+        "english": "two key parts",
+        "translations": [
+          "两个关键零件",
+          "两个重要零件"
+        ]
+      },
+      {
+        "english": "arrived late",
+        "translations": [
+          "迟到",
+          "晚到",
+          "到货延迟"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-085",
+    "text": "Please check with the customer before making any changes to the design.",
+    "reference": "对设计作任何改动之前，请先向客户确认。",
+    "keywords": [
+      {
+        "english": "customer",
+        "translations": [
+          "客户"
+        ]
+      },
+      {
+        "english": "before",
+        "translations": [
+          "之前",
+          "前"
+        ]
+      },
+      {
+        "english": "changes",
+        "translations": [
+          "改动",
+          "更改",
+          "修改"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-086",
+    "text": "If you need more time, tell me before the deadline rather than afterwards.",
+    "reference": "如果需要更多时间，请在截止时间之前告诉我，而不是之后。",
+    "keywords": [
+      {
+        "english": "more time",
+        "translations": [
+          "更多时间"
+        ]
+      },
+      {
+        "english": "before the deadline",
+        "translations": [
+          "截止时间之前",
+          "截止日期前"
+        ]
+      },
+      {
+        "english": "rather than afterwards",
+        "translations": [
+          "而不是之后",
+          "而非事后"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-087",
+    "text": "We have not made a final decision, but we are considering both options.",
+    "reference": "我们还没有作出最终决定，但正在考虑两个方案。",
+    "keywords": [
+      {
+        "english": "not made a final decision",
+        "translations": [
+          "还没有作出最终决定",
+          "尚未作出最终决定",
+          "还没做出最终决定"
+        ]
+      },
+      {
+        "english": "considering",
+        "translations": [
+          "考虑"
+        ]
+      },
+      {
+        "english": "both options",
+        "translations": [
+          "两个方案",
+          "两种方案"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-088",
+    "text": "The new system saves time by reducing the amount of information entered twice.",
+    "reference": "新系统通过减少重复录入的信息来节省时间。",
+    "keywords": [
+      {
+        "english": "saves time",
+        "translations": [
+          "节省时间"
+        ]
+      },
+      {
+        "english": "reducing",
+        "translations": [
+          "减少"
+        ]
+      },
+      {
+        "english": "entered twice",
+        "translations": [
+          "重复录入",
+          "录入两次"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-089",
+    "text": "Let me confirm that I have understood your request correctly.",
+    "reference": "让我确认一下，我是否正确理解了你的要求。",
+    "keywords": [
+      {
+        "english": "confirm",
+        "translations": [
+          "确认"
+        ]
+      },
+      {
+        "english": "correctly",
+        "translations": [
+          "正确"
+        ]
+      },
+      {
+        "english": "request",
+        "translations": [
+          "要求",
+          "需求",
+          "请求"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-090",
+    "text": "We can finish on time provided that the requirements do not change again.",
+    "reference": "只要需求不再改变，我们就能按时完成。",
+    "keywords": [
+      {
+        "english": "on time",
+        "translations": [
+          "按时"
+        ]
+      },
+      {
+        "english": "provided that",
+        "translations": [
+          "只要",
+          "前提是"
+        ]
+      },
+      {
+        "english": "do not change again",
+        "translations": [
+          "不再改变",
+          "不再变更"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-091",
+    "text": "Public transport becomes more attractive when it is reliable and affordable.",
+    "reference": "当公共交通可靠且价格合理时，它会更有吸引力。",
+    "keywords": [
+      {
+        "english": "Public transport",
+        "translations": [
+          "公共交通"
+        ]
+      },
+      {
+        "english": "reliable",
+        "translations": [
+          "可靠"
+        ]
+      },
+      {
+        "english": "affordable",
+        "translations": [
+          "价格合理",
+          "负担得起",
+          "实惠"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-092",
+    "text": "This app keeps your learning records on your computer rather than uploading them.",
+    "reference": "这个应用把学习记录保存在你的电脑上，而不是上传。",
+    "keywords": [
+      {
+        "english": "learning records",
+        "translations": [
+          "学习记录"
+        ]
+      },
+      {
+        "english": "on your computer",
+        "translations": [
+          "在你的电脑上",
+          "在本机"
+        ]
+      },
+      {
+        "english": "rather than uploading",
+        "translations": [
+          "而不是上传",
+          "不上传"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-093",
+    "text": "A strong password is useful, but it should not be shared with other people.",
+    "reference": "强密码很有用，但不应该与别人分享。",
+    "keywords": [
+      {
+        "english": "strong password",
+        "translations": [
+          "强密码",
+          "高强度密码"
+        ]
+      },
+      {
+        "english": "useful",
+        "translations": [
+          "有用"
+        ]
+      },
+      {
+        "english": "not be shared",
+        "translations": [
+          "不应该与别人分享",
+          "不应分享",
+          "不要分享"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-094",
+    "text": "The town is building wider pavements to make walking safer.",
+    "reference": "这个镇正在修建更宽的人行道，让步行更加安全。",
+    "keywords": [
+      {
+        "english": "wider pavements",
+        "translations": [
+          "更宽的人行道"
+        ]
+      },
+      {
+        "english": "walking",
+        "translations": [
+          "步行",
+          "走路"
+        ]
+      },
+      {
+        "english": "safer",
+        "translations": [
+          "更加安全",
+          "更安全"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-095",
+    "text": "Reusing a bottle is usually better than throwing it away after one drink.",
+    "reference": "重复使用瓶子通常比喝一次就扔掉更好。",
+    "keywords": [
+      {
+        "english": "Reusing",
+        "translations": [
+          "重复使用",
+          "反复使用"
+        ]
+      },
+      {
+        "english": "better",
+        "translations": [
+          "更好"
+        ]
+      },
+      {
+        "english": "throwing it away",
+        "translations": [
+          "扔掉",
+          "丢掉"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-096",
+    "text": "Online information should be checked against more than one trustworthy source.",
+    "reference": "网上的信息应该与不止一个可信来源交叉核对。",
+    "keywords": [
+      {
+        "english": "Online information",
+        "translations": [
+          "网上的信息",
+          "网络信息"
+        ]
+      },
+      {
+        "english": "checked",
+        "translations": [
+          "核对",
+          "查证",
+          "验证"
+        ]
+      },
+      {
+        "english": "more than one",
+        "translations": [
+          "不止一个",
+          "多个",
+          "几个"
+        ]
+      },
+      {
+        "english": "trustworthy",
+        "translations": [
+          "可信",
+          "可靠"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-097",
+    "text": "The hospital has introduced an online service for booking appointments.",
+    "reference": "这家医院推出了网上预约服务。",
+    "keywords": [
+      {
+        "english": "hospital",
+        "translations": [
+          "医院"
+        ]
+      },
+      {
+        "english": "online service",
+        "translations": [
+          "网上",
+          "在线"
+        ]
+      },
+      {
+        "english": "booking appointments",
+        "translations": [
+          "预约",
+          "挂号"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-098",
+    "text": "Saving energy does not always require buying expensive new equipment.",
+    "reference": "节约能源并不总是需要购买昂贵的新设备。",
+    "keywords": [
+      {
+        "english": "Saving energy",
+        "translations": [
+          "节约能源",
+          "节能"
+        ]
+      },
+      {
+        "english": "does not always require",
+        "translations": [
+          "并不总是需要",
+          "不一定需要"
+        ]
+      },
+      {
+        "english": "expensive",
+        "translations": [
+          "昂贵",
+          "很贵"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-099",
+    "text": "The survey suggests that many residents would like more green spaces.",
+    "reference": "调查表明，许多居民希望有更多绿地。",
+    "keywords": [
+      {
+        "english": "survey",
+        "translations": [
+          "调查"
+        ]
+      },
+      {
+        "english": "residents",
+        "translations": [
+          "居民"
+        ]
+      },
+      {
+        "english": "more green spaces",
+        "translations": [
+          "更多绿地",
+          "更多绿色空间"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-100",
+    "text": "Technology is helpful only when people understand how to use it responsibly.",
+    "reference": "只有人们懂得如何负责任地使用技术时，技术才有帮助。",
+    "keywords": [
+      {
+        "english": "only when",
+        "translations": [
+          "只有"
+        ]
+      },
+      {
+        "english": "responsibly",
+        "translations": [
+          "负责任"
+        ]
+      },
+      {
+        "english": "helpful",
+        "translations": [
+          "有帮助",
+          "有用"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-101",
+    "text": "Even though working from home saves commuting time, it can make it harder to separate work from personal life.",
+    "reference": "尽管在家办公节省了通勤时间，却可能让工作和个人生活更难分开。",
+    "keywords": [
+      {
+        "english": "Even though",
+        "translations": [
+          "尽管",
+          "虽然"
+        ]
+      },
+      {
+        "english": "commuting time",
+        "translations": [
+          "通勤时间"
+        ]
+      },
+      {
+        "english": "harder to separate",
+        "translations": [
+          "更难分开",
+          "更难区分",
+          "更难划分"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-102",
+    "text": "Had I known that the road would be closed, I would have left home much earlier.",
+    "reference": "要是早知道那条路会封闭，我就会早得多出门。",
+    "keywords": [
+      {
+        "english": "Had I known",
+        "translations": [
+          "要是早知道",
+          "如果早知道"
+        ]
+      },
+      {
+        "english": "road would be closed",
+        "translations": [
+          "路会封闭",
+          "道路封闭",
+          "路会封"
+        ]
+      },
+      {
+        "english": "much earlier",
+        "translations": [
+          "早得多",
+          "早很多"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-103",
+    "text": "What matters most is not how many habits you change at once, but whether you can maintain them over time.",
+    "reference": "最重要的不是一次改变多少习惯，而是能否长期坚持。",
+    "keywords": [
+      {
+        "english": "What matters most",
+        "translations": [
+          "最重要"
+        ]
+      },
+      {
+        "english": "not",
+        "translations": [
+          "不是"
+        ]
+      },
+      {
+        "english": "maintain them over time",
+        "translations": [
+          "长期坚持",
+          "长久坚持",
+          "长期保持"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-104",
+    "text": "The less time I spend comparing myself with others, the more attention I can give to my own progress.",
+    "reference": "我花在与别人比较上的时间越少，就越能关注自己的进步。",
+    "keywords": [
+      {
+        "english": "less time",
+        "translations": [
+          "时间越少"
+        ]
+      },
+      {
+        "english": "comparing myself with others",
+        "translations": [
+          "与别人比较",
+          "和别人比较"
+        ]
+      },
+      {
+        "english": "own progress",
+        "translations": [
+          "自己的进步"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-105",
+    "text": "Rather than trying to eliminate every distraction, I set aside a short period in which I focus on one task.",
+    "reference": "我没有试图消除所有干扰，而是留出一小段时间，专注于一项任务。",
+    "keywords": [
+      {
+        "english": "Rather than",
+        "translations": [
+          "没有",
+          "不再",
+          "而不是"
+        ]
+      },
+      {
+        "english": "every distraction",
+        "translations": [
+          "所有干扰"
+        ]
+      },
+      {
+        "english": "set aside",
+        "translations": [
+          "留出",
+          "腾出"
+        ]
+      },
+      {
+        "english": "one task",
+        "translations": [
+          "一项任务",
+          "一个任务"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-106",
+    "text": "It was not until I started keeping a spending diary that I realised how much I was paying for small purchases.",
+    "reference": "直到开始记开销日记，我才意识到零碎购物花了我多少钱。",
+    "keywords": [
+      {
+        "english": "not until",
+        "translations": [
+          "直到"
+        ]
+      },
+      {
+        "english": "spending diary",
+        "translations": [
+          "开销日记",
+          "消费日记",
+          "记账"
+        ]
+      },
+      {
+        "english": "realised",
+        "translations": [
+          "才意识到",
+          "才发现"
+        ]
+      },
+      {
+        "english": "small purchases",
+        "translations": [
+          "零碎购物",
+          "小额消费"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-107",
+    "text": "No matter how carefully we make plans, unexpected events may require us to adjust our priorities.",
+    "reference": "无论计划做得多周密，意外事件都可能迫使我们调整优先事项。",
+    "keywords": [
+      {
+        "english": "No matter",
+        "translations": [
+          "无论",
+          "不管"
+        ]
+      },
+      {
+        "english": "unexpected events",
+        "translations": [
+          "意外事件",
+          "突发事件"
+        ]
+      },
+      {
+        "english": "adjust our priorities",
+        "translations": [
+          "调整优先事项",
+          "调整重点"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-108",
+    "text": "Choosing a cheaper product is not necessarily economical if it has to be replaced much more frequently.",
+    "reference": "如果更便宜的产品需要频繁更换，选择它未必省钱。",
+    "keywords": [
+      {
+        "english": "cheaper product",
+        "translations": [
+          "更便宜的产品"
+        ]
+      },
+      {
+        "english": "not necessarily economical",
+        "translations": [
+          "未必省钱",
+          "不一定经济",
+          "未必划算"
+        ]
+      },
+      {
+        "english": "replaced",
+        "translations": [
+          "更换",
+          "替换"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-109",
+    "text": "I am trying to build a routine that is flexible enough to survive a busy week without being abandoned altogether.",
+    "reference": "我在尝试建立一种足够灵活的日常安排，忙碌一周也不至于彻底放弃。",
+    "keywords": [
+      {
+        "english": "routine",
+        "translations": [
+          "日常安排",
+          "日程",
+          "作息"
+        ]
+      },
+      {
+        "english": "flexible enough",
+        "translations": [
+          "足够灵活"
+        ]
+      },
+      {
+        "english": "busy week",
+        "translations": [
+          "忙碌一周",
+          "繁忙的一周"
+        ]
+      },
+      {
+        "english": "abandoned altogether",
+        "translations": [
+          "彻底放弃",
+          "完全放弃"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-110",
+    "text": "A conversation can become more productive when each person first restates the other person's view before responding.",
+    "reference": "如果每个人回应前先复述对方的观点，交谈可能会更有成效。",
+    "keywords": [
+      {
+        "english": "more productive",
+        "translations": [
+          "更有成效",
+          "更有效"
+        ]
+      },
+      {
+        "english": "restates",
+        "translations": [
+          "复述",
+          "重述"
+        ]
+      },
+      {
+        "english": "before responding",
+        "translations": [
+          "回应前",
+          "回答前",
+          "回应之前"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "日常生活",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-111",
+    "text": "Unless the airline confirms otherwise, passengers whose connections were cancelled should collect their luggage before leaving the terminal.",
+    "reference": "除非航空公司另行确认，转机航班被取消的旅客应在离开航站楼之前领取行李。",
+    "keywords": [
+      {
+        "english": "Unless",
+        "translations": [
+          "除非"
+        ]
+      },
+      {
+        "english": "connections were cancelled",
+        "translations": [
+          "转机航班被取消",
+          "中转航班被取消"
+        ]
+      },
+      {
+        "english": "collect their luggage",
+        "translations": [
+          "领取行李",
+          "取行李"
+        ]
+      },
+      {
+        "english": "before",
+        "translations": [
+          "之前",
+          "前"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-112",
+    "text": "The route we eventually chose was longer, but it avoided the mountain pass where heavy rain had caused landslides.",
+    "reference": "我们最后选择的路线更长，但避开了因大雨发生滑坡的山口。",
+    "keywords": [
+      {
+        "english": "longer",
+        "translations": [
+          "更长"
+        ]
+      },
+      {
+        "english": "avoided",
+        "translations": [
+          "避开"
+        ]
+      },
+      {
+        "english": "mountain pass",
+        "translations": [
+          "山口"
+        ]
+      },
+      {
+        "english": "landslides",
+        "translations": [
+          "滑坡",
+          "山体滑坡"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-113",
+    "text": "Visitors are advised to reserve a time slot in advance, as arriving at the entrance does not guarantee admission.",
+    "reference": "建议游客提前预约时段，因为到达入口并不保证能够入场。",
+    "keywords": [
+      {
+        "english": "reserve a time slot",
+        "translations": [
+          "预约时段",
+          "预约时间"
+        ]
+      },
+      {
+        "english": "in advance",
+        "translations": [
+          "提前"
+        ]
+      },
+      {
+        "english": "does not guarantee admission",
+        "translations": [
+          "不保证能够入场",
+          "不保证入场",
+          "不能保证入场"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-114",
+    "text": "If we had checked the local timetable instead of relying on an old guidebook, we would not have missed the last ferry.",
+    "reference": "如果当时查看了当地时刻表，而不是依赖旧旅行指南，我们就不会错过末班渡船。",
+    "keywords": [
+      {
+        "english": "local timetable",
+        "translations": [
+          "当地时刻表"
+        ]
+      },
+      {
+        "english": "old guidebook",
+        "translations": [
+          "旧旅行指南",
+          "旧旅游指南"
+        ]
+      },
+      {
+        "english": "would not have missed",
+        "translations": [
+          "就不会错过",
+          "便不会错过"
+        ]
+      },
+      {
+        "english": "last ferry",
+        "translations": [
+          "末班渡船",
+          "最后一班渡船"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-115",
+    "text": "Although a direct flight costs more, it may be worth considering once the time and uncertainty of a connection are taken into account.",
+    "reference": "直飞虽然更贵，但考虑到转机的时间和不确定性后，仍可能值得选择。",
+    "keywords": [
+      {
+        "english": "direct flight",
+        "translations": [
+          "直飞",
+          "直达航班"
+        ]
+      },
+      {
+        "english": "costs more",
+        "translations": [
+          "更贵",
+          "花费更多"
+        ]
+      },
+      {
+        "english": "uncertainty",
+        "translations": [
+          "不确定性"
+        ]
+      },
+      {
+        "english": "taken into account",
+        "translations": [
+          "考虑到",
+          "考虑进去"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-116",
+    "text": "The village, which used to be difficult to reach by public transport, now has a regular bus service throughout the year.",
+    "reference": "这个过去乘公共交通很难到达的村庄，如今全年都有定期公交车。",
+    "keywords": [
+      {
+        "english": "used to",
+        "translations": [
+          "过去",
+          "以前"
+        ]
+      },
+      {
+        "english": "difficult to reach",
+        "translations": [
+          "很难到达",
+          "难以到达"
+        ]
+      },
+      {
+        "english": "regular bus service",
+        "translations": [
+          "定期公交车",
+          "定期公交服务"
+        ]
+      },
+      {
+        "english": "throughout the year",
+        "translations": [
+          "全年",
+          "一年四季"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-117",
+    "text": "Travellers who depend entirely on mobile maps may find themselves unable to navigate when the signal disappears.",
+    "reference": "完全依赖手机地图的旅行者可能会在信号消失时无法辨认路线。",
+    "keywords": [
+      {
+        "english": "depend entirely",
+        "translations": [
+          "完全依赖"
+        ]
+      },
+      {
+        "english": "signal disappears",
+        "translations": [
+          "信号消失",
+          "没有信号"
+        ]
+      },
+      {
+        "english": "unable to navigate",
+        "translations": [
+          "无法辨认路线",
+          "无法导航",
+          "找不到路"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-118",
+    "text": "Before paying a deposit, make sure you understand which cancellations qualify for a refund and which charges are non-refundable.",
+    "reference": "支付定金前，要确认哪些取消情形可以退款，以及哪些费用不能退。",
+    "keywords": [
+      {
+        "english": "deposit",
+        "translations": [
+          "定金",
+          "订金"
+        ]
+      },
+      {
+        "english": "refund",
+        "translations": [
+          "退款",
+          "退钱"
+        ]
+      },
+      {
+        "english": "non-refundable",
+        "translations": [
+          "不能退",
+          "不予退还",
+          "不可退"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-119",
+    "text": "As attractive as a tightly packed itinerary may seem, leaving some unscheduled time often makes a trip less stressful.",
+    "reference": "尽管排得很满的行程看似诱人，留些自由时间通常能让旅途更轻松。",
+    "keywords": [
+      {
+        "english": "tightly packed itinerary",
+        "translations": [
+          "排得很满的行程",
+          "紧凑的行程"
+        ]
+      },
+      {
+        "english": "unscheduled time",
+        "translations": [
+          "自由时间",
+          "未安排的时间"
+        ]
+      },
+      {
+        "english": "less stressful",
+        "translations": [
+          "更轻松",
+          "压力更小"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-120",
+    "text": "The guide asked us to keep our voices low so that we would not disturb the animals that lived near the path.",
+    "reference": "导游让我们放低声音，以免惊扰住在小径附近的动物。",
+    "keywords": [
+      {
+        "english": "keep our voices low",
+        "translations": [
+          "放低声音",
+          "小声"
+        ]
+      },
+      {
+        "english": "not disturb",
+        "translations": [
+          "以免惊扰",
+          "不打扰",
+          "不惊扰"
+        ]
+      },
+      {
+        "english": "near the path",
+        "translations": [
+          "小径附近",
+          "路边"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "出行旅行",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-121",
+    "text": "Being able to recognise a word in isolation does not necessarily mean that you can understand its meaning in an unfamiliar context.",
+    "reference": "能认出孤立的单词，并不一定意味着能理解它在陌生语境中的含义。",
+    "keywords": [
+      {
+        "english": "in isolation",
+        "translations": [
+          "孤立的",
+          "孤立地",
+          "单独"
+        ]
+      },
+      {
+        "english": "does not necessarily mean",
+        "translations": [
+          "并不一定意味着",
+          "不一定代表"
+        ]
+      },
+      {
+        "english": "unfamiliar context",
+        "translations": [
+          "陌生语境",
+          "不熟悉的语境"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-122",
+    "text": "The aim of reviewing a difficult sentence is not merely to remember its translation, but to notice how its meaning is constructed.",
+    "reference": "复习难句的目的不只是记住译文，还要留意句意是如何构成的。",
+    "keywords": [
+      {
+        "english": "not merely",
+        "translations": [
+          "不只是",
+          "不仅仅"
+        ]
+      },
+      {
+        "english": "translation",
+        "translations": [
+          "译文",
+          "翻译"
+        ]
+      },
+      {
+        "english": "meaning is constructed",
+        "translations": [
+          "句意是如何构成",
+          "意思如何构成",
+          "含义如何形成"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-123",
+    "text": "If a scoring system treats every unfamiliar expression as a mistake, it may discourage learners from experimenting with natural alternatives.",
+    "reference": "如果评分系统把每种不熟悉的表达都当作错误，就可能打击学习者尝试自然替代表达的积极性。",
+    "keywords": [
+      {
+        "english": "scoring system",
+        "translations": [
+          "评分系统"
+        ]
+      },
+      {
+        "english": "as a mistake",
+        "translations": [
+          "当作错误",
+          "视为错误"
+        ]
+      },
+      {
+        "english": "discourage",
+        "translations": [
+          "打击",
+          "阻碍",
+          "使人不愿"
+        ]
+      },
+      {
+        "english": "natural alternatives",
+        "translations": [
+          "自然替代表达",
+          "自然的替代表达"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-124",
+    "text": "Only after comparing my answer with the original did I notice that I had reversed the relationship between cause and effect.",
+    "reference": "直到把答案与原文比较后，我才发现自己把因果关系颠倒了。",
+    "keywords": [
+      {
+        "english": "Only after",
+        "translations": [
+          "直到",
+          "只有在"
+        ]
+      },
+      {
+        "english": "original",
+        "translations": [
+          "原文"
+        ]
+      },
+      {
+        "english": "reversed",
+        "translations": [
+          "颠倒"
+        ]
+      },
+      {
+        "english": "cause and effect",
+        "translations": [
+          "因果关系",
+          "原因和结果"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-125",
+    "text": "What makes a study plan sustainable is the balance between a challenging goal and a workload that can realistically be maintained.",
+    "reference": "让学习计划能够持续下去的，是有挑战性的目标与实际可坚持的学习量之间的平衡。",
+    "keywords": [
+      {
+        "english": "sustainable",
+        "translations": [
+          "能够持续",
+          "可持续",
+          "持续下去"
+        ]
+      },
+      {
+        "english": "challenging goal",
+        "translations": [
+          "有挑战性的目标"
+        ]
+      },
+      {
+        "english": "workload",
+        "translations": [
+          "学习量",
+          "任务量"
+        ]
+      },
+      {
+        "english": "balance",
+        "translations": [
+          "平衡"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-126",
+    "text": "Rather than assuming that one poor result reflects a lack of ability, examine which specific skills the task required.",
+    "reference": "不要认定一次差成绩就说明能力不足，而应分析这项任务具体需要哪些技能。",
+    "keywords": [
+      {
+        "english": "one poor result",
+        "translations": [
+          "一次差成绩",
+          "一次不好的结果"
+        ]
+      },
+      {
+        "english": "lack of ability",
+        "translations": [
+          "能力不足"
+        ]
+      },
+      {
+        "english": "which specific skills",
+        "translations": [
+          "哪些技能",
+          "哪些具体技能"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-127",
+    "text": "The feedback was useful because it identified information I had omitted, while acknowledging that my wording was different but reasonable.",
+    "reference": "这份反馈很有用，因为它指出了我遗漏的信息，同时承认我的措辞虽不同却合理。",
+    "keywords": [
+      {
+        "english": "omitted",
+        "translations": [
+          "遗漏",
+          "漏掉"
+        ]
+      },
+      {
+        "english": "acknowledging",
+        "translations": [
+          "承认",
+          "认可"
+        ]
+      },
+      {
+        "english": "different but reasonable",
+        "translations": [
+          "虽不同却合理",
+          "不同但合理"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-128",
+    "text": "A passage that contains only familiar words can still be difficult if the relationships between its clauses are not understood.",
+    "reference": "即使一篇文章只包含熟悉的词，如果不理解分句之间的关系，读起来仍然可能很难。",
+    "keywords": [
+      {
+        "english": "familiar words",
+        "translations": [
+          "熟悉的词",
+          "熟词"
+        ]
+      },
+      {
+        "english": "relationships",
+        "translations": [
+          "关系"
+        ]
+      },
+      {
+        "english": "clauses",
+        "translations": [
+          "分句",
+          "从句"
+        ]
+      },
+      {
+        "english": "still be difficult",
+        "translations": [
+          "仍然可能很难",
+          "依然很难"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-129",
+    "text": "When listening for the first time, try to grasp the overall message before focusing on words that you may have missed.",
+    "reference": "第一次听时，先尝试把握整体意思，再关注可能漏听的单词。",
+    "keywords": [
+      {
+        "english": "first time",
+        "translations": [
+          "第一次"
+        ]
+      },
+      {
+        "english": "overall message",
+        "translations": [
+          "整体意思",
+          "总体意思",
+          "大意"
+        ]
+      },
+      {
+        "english": "before",
+        "translations": [
+          "先",
+          "再"
+        ]
+      },
+      {
+        "english": "missed",
+        "translations": [
+          "漏听",
+          "没听到"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-130",
+    "text": "The value of a reference translation lies in offering one defensible interpretation, not in excluding every other valid way of expressing the same idea.",
+    "reference": "参考译文的价值在于提供一种站得住脚的理解，而不是排斥表达同一意思的其他合理方式。",
+    "keywords": [
+      {
+        "english": "reference translation",
+        "translations": [
+          "参考译文"
+        ]
+      },
+      {
+        "english": "one defensible interpretation",
+        "translations": [
+          "一种站得住脚的理解",
+          "一种合理理解",
+          "一种合理的理解"
+        ]
+      },
+      {
+        "english": "not in excluding",
+        "translations": [
+          "而不是排斥",
+          "不在于排除"
+        ]
+      },
+      {
+        "english": "valid way",
+        "translations": [
+          "合理方式",
+          "合理表达"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "学习成长",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-131",
+    "text": "Before committing to a deadline, we need to distinguish tasks that depend on external suppliers from those we can control ourselves.",
+    "reference": "承诺截止日期之前，我们需要区分依赖外部供应商的任务和能够自行控制的任务。",
+    "keywords": [
+      {
+        "english": "committing to a deadline",
+        "translations": [
+          "承诺截止日期",
+          "承诺期限"
+        ]
+      },
+      {
+        "english": "external suppliers",
+        "translations": [
+          "外部供应商"
+        ]
+      },
+      {
+        "english": "distinguish",
+        "translations": [
+          "区分"
+        ]
+      },
+      {
+        "english": "control ourselves",
+        "translations": [
+          "自行控制",
+          "自己控制"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-132",
+    "text": "The proposal should explain not only what the new process will improve, but also how those improvements will be measured.",
+    "reference": "这份提案不仅应该说明新流程会改善什么，还应说明如何衡量这些改善。",
+    "keywords": [
+      {
+        "english": "not only",
+        "translations": [
+          "不仅"
+        ]
+      },
+      {
+        "english": "new process",
+        "translations": [
+          "新流程"
+        ]
+      },
+      {
+        "english": "measured",
+        "translations": [
+          "衡量",
+          "测量",
+          "评估"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-133",
+    "text": "Even if the immediate problem can be fixed quickly, we should investigate why the existing checks failed to detect it.",
+    "reference": "即使眼前的问题能迅速修复，我们也应该调查现有检查为什么没能发现它。",
+    "keywords": [
+      {
+        "english": "Even if",
+        "translations": [
+          "即使",
+          "就算"
+        ]
+      },
+      {
+        "english": "fixed quickly",
+        "translations": [
+          "迅速修复",
+          "快速修复"
+        ]
+      },
+      {
+        "english": "investigate",
+        "translations": [
+          "调查"
+        ]
+      },
+      {
+        "english": "failed to detect",
+        "translations": [
+          "没能发现",
+          "未能发现"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-134",
+    "text": "Since the requirements are still evolving, a small working version would give us more useful feedback than an elaborate unfinished design.",
+    "reference": "由于需求仍在变化，一个小而可用的版本会比复杂但未完成的设计带来更有用的反馈。",
+    "keywords": [
+      {
+        "english": "requirements",
+        "translations": [
+          "需求"
+        ]
+      },
+      {
+        "english": "small working version",
+        "translations": [
+          "小而可用的版本",
+          "小型可用版本"
+        ]
+      },
+      {
+        "english": "unfinished design",
+        "translations": [
+          "未完成的设计"
+        ]
+      },
+      {
+        "english": "more useful feedback",
+        "translations": [
+          "更有用的反馈"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-135",
+    "text": "I would appreciate it if you could clarify whether this change affects existing customers or applies only to new accounts.",
+    "reference": "如果你能说明这项变更会影响现有客户，还是仅适用于新账户，我将十分感谢。",
+    "keywords": [
+      {
+        "english": "clarify",
+        "translations": [
+          "说明",
+          "澄清"
+        ]
+      },
+      {
+        "english": "existing customers",
+        "translations": [
+          "现有客户"
+        ]
+      },
+      {
+        "english": "only to new accounts",
+        "translations": [
+          "仅适用于新账户",
+          "只适用于新账户"
+        ]
+      },
+      {
+        "english": "appreciate",
+        "translations": [
+          "感谢"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-136",
+    "text": "The manager emphasised that reporting a risk early was more helpful than hiding it until the final review.",
+    "reference": "经理强调，尽早报告风险比把它隐瞒到最终评审时更有帮助。",
+    "keywords": [
+      {
+        "english": "reporting a risk early",
+        "translations": [
+          "尽早报告风险",
+          "提前报告风险"
+        ]
+      },
+      {
+        "english": "hiding",
+        "translations": [
+          "隐瞒"
+        ]
+      },
+      {
+        "english": "final review",
+        "translations": [
+          "最终评审",
+          "最终审查"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-137",
+    "text": "We should avoid treating a successful demonstration as evidence that the system will work reliably under everyday conditions.",
+    "reference": "我们应避免把一次成功演示当作系统在日常条件下也能可靠运行的证据。",
+    "keywords": [
+      {
+        "english": "successful demonstration",
+        "translations": [
+          "成功演示"
+        ]
+      },
+      {
+        "english": "as evidence",
+        "translations": [
+          "当作",
+          "作为",
+          "视为"
+        ]
+      },
+      {
+        "english": "reliably",
+        "translations": [
+          "可靠"
+        ]
+      },
+      {
+        "english": "everyday conditions",
+        "translations": [
+          "日常条件",
+          "日常环境"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-138",
+    "text": "If the team had documented the reasons behind the earlier decision, we would not need to repeat the same discussion now.",
+    "reference": "如果团队当时记录了先前决定背后的原因，现在就不必重复同样的讨论。",
+    "keywords": [
+      {
+        "english": "documented",
+        "translations": [
+          "记录"
+        ]
+      },
+      {
+        "english": "earlier decision",
+        "translations": [
+          "先前决定",
+          "之前的决定"
+        ]
+      },
+      {
+        "english": "would not need",
+        "translations": [
+          "就不必",
+          "就不用"
+        ]
+      },
+      {
+        "english": "repeat",
+        "translations": [
+          "重复"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-139",
+    "text": "What we need from this meeting is a clear decision about the next step, together with an owner and a realistic completion date.",
+    "reference": "我们需要从这次会议中得到明确的下一步决定，以及负责人和切合实际的完成日期。",
+    "keywords": [
+      {
+        "english": "next step",
+        "translations": [
+          "下一步"
+        ]
+      },
+      {
+        "english": "owner",
+        "translations": [
+          "负责人"
+        ]
+      },
+      {
+        "english": "realistic",
+        "translations": [
+          "切合实际",
+          "合理"
+        ]
+      },
+      {
+        "english": "completion date",
+        "translations": [
+          "完成日期",
+          "完成时间"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-140",
+    "text": "Reducing the scope may be the responsible choice when the alternative is to deliver more features that have not been properly tested.",
+    "reference": "如果另一种选择是交付更多未经充分测试的功能，那么缩小范围可能才是负责任的选择。",
+    "keywords": [
+      {
+        "english": "Reducing the scope",
+        "translations": [
+          "缩小范围",
+          "减少范围"
+        ]
+      },
+      {
+        "english": "responsible choice",
+        "translations": [
+          "负责任的选择"
+        ]
+      },
+      {
+        "english": "not been properly tested",
+        "translations": [
+          "未经充分测试",
+          "没有经过充分测试"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "职场沟通",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-141",
+    "text": "A recommendation based on incomplete data should be presented as tentative rather than as a conclusion that has already been established.",
+    "reference": "依据不完整数据提出的建议，应该被视为暂定意见，而不是已经确立的结论。",
+    "keywords": [
+      {
+        "english": "incomplete data",
+        "translations": [
+          "不完整数据",
+          "不完整的数据"
+        ]
+      },
+      {
+        "english": "tentative",
+        "translations": [
+          "暂定",
+          "初步"
+        ]
+      },
+      {
+        "english": "rather than",
+        "translations": [
+          "而不是",
+          "而非"
+        ]
+      },
+      {
+        "english": "established",
+        "translations": [
+          "确立",
+          "证实"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-142",
+    "text": "Although automation can reduce repetitive work, people still need a clear way to review decisions and correct errors.",
+    "reference": "尽管自动化能够减少重复性工作，人们仍然需要明确的方法来审查决定和纠正错误。",
+    "keywords": [
+      {
+        "english": "automation",
+        "translations": [
+          "自动化"
+        ]
+      },
+      {
+        "english": "repetitive work",
+        "translations": [
+          "重复性工作",
+          "重复工作"
+        ]
+      },
+      {
+        "english": "review decisions",
+        "translations": [
+          "审查决定",
+          "复核决定"
+        ]
+      },
+      {
+        "english": "correct errors",
+        "translations": [
+          "纠正错误"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-143",
+    "text": "The fact that two events occur together does not by itself prove that one of them causes the other.",
+    "reference": "两件事同时发生这一事实，本身并不能证明其中一件导致了另一件。",
+    "keywords": [
+      {
+        "english": "occur together",
+        "translations": [
+          "同时发生"
+        ]
+      },
+      {
+        "english": "does not by itself prove",
+        "translations": [
+          "本身并不能证明",
+          "本身不能证明"
+        ]
+      },
+      {
+        "english": "causes",
+        "translations": [
+          "导致",
+          "引起"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-144",
+    "text": "As cities become more crowded, providing reliable public transport may matter more than simply building additional roads.",
+    "reference": "随着城市更加拥挤，提供可靠的公共交通可能比单纯增建道路更重要。",
+    "keywords": [
+      {
+        "english": "more crowded",
+        "translations": [
+          "更加拥挤",
+          "更拥挤"
+        ]
+      },
+      {
+        "english": "reliable public transport",
+        "translations": [
+          "可靠的公共交通"
+        ]
+      },
+      {
+        "english": "additional roads",
+        "translations": [
+          "增建道路",
+          "增加道路",
+          "更多道路"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-145",
+    "text": "A service that collects less personal information can reduce the consequences of a breach, even if no system is perfectly secure.",
+    "reference": "即使没有系统绝对安全，收集更少个人信息的服务也能减轻数据泄露的后果。",
+    "keywords": [
+      {
+        "english": "less personal information",
+        "translations": [
+          "更少个人信息",
+          "更少的个人信息"
+        ]
+      },
+      {
+        "english": "breach",
+        "translations": [
+          "数据泄露",
+          "信息泄露"
+        ]
+      },
+      {
+        "english": "even if",
+        "translations": [
+          "即使",
+          "哪怕"
+        ]
+      },
+      {
+        "english": "perfectly secure",
+        "translations": [
+          "绝对安全",
+          "完全安全"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-146",
+    "text": "The environmental benefit of a product depends partly on how it is made and partly on how long it remains in use.",
+    "reference": "一种产品的环境效益，一部分取决于它的制造方式，一部分取决于它能使用多久。",
+    "keywords": [
+      {
+        "english": "environmental benefit",
+        "translations": [
+          "环境效益",
+          "环保效益"
+        ]
+      },
+      {
+        "english": "how it is made",
+        "translations": [
+          "制造方式",
+          "如何制造"
+        ]
+      },
+      {
+        "english": "how long",
+        "translations": [
+          "多久",
+          "多长时间"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-147",
+    "text": "Without knowing how the participants were selected, it is difficult to judge whether the survey represents the wider population.",
+    "reference": "如果不知道参与者是如何选出的，就很难判断这项调查是否代表更广泛的人群。",
+    "keywords": [
+      {
+        "english": "participants were selected",
+        "translations": [
+          "参与者是如何选出",
+          "参与者如何选取"
+        ]
+      },
+      {
+        "english": "difficult to judge",
+        "translations": [
+          "很难判断",
+          "难以判断"
+        ]
+      },
+      {
+        "english": "wider population",
+        "translations": [
+          "更广泛的人群",
+          "更大的人群"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-148",
+    "text": "Making a tool available to everyone is only the first step; people also need the skills and support required to use it effectively.",
+    "reference": "让所有人都能获得工具只是第一步；人们还需要有效使用它所需的技能和支持。",
+    "keywords": [
+      {
+        "english": "only the first step",
+        "translations": [
+          "只是第一步",
+          "仅是第一步"
+        ]
+      },
+      {
+        "english": "skills and support",
+        "translations": [
+          "技能和支持"
+        ]
+      },
+      {
+        "english": "effectively",
+        "translations": [
+          "有效"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-149",
+    "text": "A useful explanation should make the limits of the evidence clear, especially when the findings may influence important personal decisions.",
+    "reference": "有用的解释应该说明证据的局限，尤其当研究结果可能影响重要个人决定时。",
+    "keywords": [
+      {
+        "english": "limits of the evidence",
+        "translations": [
+          "证据的局限",
+          "证据的限制"
+        ]
+      },
+      {
+        "english": "findings",
+        "translations": [
+          "研究结果",
+          "调查结果"
+        ]
+      },
+      {
+        "english": "personal decisions",
+        "translations": [
+          "个人决定",
+          "个人决策"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  },
+  {
+    "id": "original-practice-150",
+    "text": "The goal of improving a digital service should be to help people complete meaningful tasks, rather than simply keeping them on the screen longer.",
+    "reference": "改进数字服务的目标，应该是帮助人们完成有意义的任务，而不只是让他们盯着屏幕更久。",
+    "keywords": [
+      {
+        "english": "digital service",
+        "translations": [
+          "数字服务"
+        ]
+      },
+      {
+        "english": "meaningful tasks",
+        "translations": [
+          "有意义的任务"
+        ]
+      },
+      {
+        "english": "rather than simply",
+        "translations": [
+          "而不只是",
+          "而不是仅仅"
+        ]
+      },
+      {
+        "english": "longer",
+        "translations": [
+          "更久",
+          "更长时间"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "社会科技",
+    "source": "拾句原创练习",
+    "sourceUrl": "",
+    "license": "项目原创",
+    "attribution": "拾句项目原创英中练习；参考译文与评分关键词由本项目编写。",
+    "audioSource": "tts"
+  }
+]

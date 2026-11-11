@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<title>划词助手</title>
+<style>body{font:14px system-ui;margin:20px;color:#222}button{padding:7px 14px;margin:8px 8px 0 0}textarea{box-sizing:border-box;width:100%;min-height:54px}label{display:block;margin-top:8px}</style>
+<h3 id="word">划词助手</h3>
+<p>部分应用不支持读取选区，可使用托盘菜单或 Ctrl+Shift+E 查询剪贴板。</p>
+<label>释义<textarea id="meaning"></textarea></label>
+<label>上下文<textarea id="context"></textarea></label>
+<p id="status"></p>
+<button id="save">保存单词</button>
+<button id="sentence">加入句子练习</button>
+<button id="listening">加入听力练习</button>
+<p id="practice-note" hidden>中文练习如无 API 评分或人工关键词，将只保留答案，不给语义分数；英文听写仍可对照原文。</p>
+<button id="settings">打开主窗口</button>
+<button id="close">关闭</button>
+<script>
+let word='',source='',sourceUrl='',requestId=0;
+window.helper.onSelection(async selection=>{
+  const current=++requestId;
+  word=selection.text;source=selection.source;sourceUrl=selection.sourceUrl||'';
+  document.querySelector('#word').textContent=word;
+  document.querySelector('#context').value=word;
+  document.querySelector('#meaning').value='';
+  document.querySelector('#status').textContent='查询中…';
+  const canPractice=/\s/.test(word.trim());
+  document.querySelector('#sentence').hidden=!canPractice;
+  document.querySelector('#listening').hidden=!canPractice;
+  document.querySelector('#practice-note').hidden=!canPractice;
+  try {
+    const data=await window.helper.lookup(word);
+    if(current!==requestId)return;
+    document.querySelector('#meaning').value=data.translation||(data.meanings||[]).join('；');
+    document.querySelector('#status').textContent=data.notice||({bing:'Bing 在线翻译',yandex:'Yandex 在线翻译',ai:'自定义 AI'})[data.provider]||(document.querySelector('#meaning').value?'本地词典':'词典中暂无释义');
+  } catch(e) { if(current===requestId)document.querySelector('#status').textContent='查询失败：'+e.message; }
+});
+document.querySelector('#save').onclick=async()=>{
+  try { await window.helper.save({word,source,sourceUrl,meaning:document.querySelector('#meaning').value,context:document.querySelector('#context').value}); document.querySelector('#status').textContent='已保存'; }
+  catch(e) { document.querySelector('#status').textContent='保存失败：'+e.message; }
+};
+for(const kind of ['sentence','listening']) document.querySelector('#'+kind).onclick=async()=>{
+  try { await window.helper.saveExercise(kind); document.querySelector('#status').textContent='已加入练习'; }
+  catch(e) { document.querySelector('#status').textContent='加入练习失败：'+e.message; }
+};
+document.querySelector('#settings').onclick=()=>window.helper.openSettings();
+document.querySelector('#close').onclick=()=>window.helper.close();
+</script>
+</html>

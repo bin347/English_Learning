@@ -1,0 +1,711 @@
+[
+  {
+    "id": "article-park-1",
+    "articleId": "article-park",
+    "articleTitle": "A Garden for Everyone",
+    "text": "A small park stood between two busy streets.",
+    "reference": "一座小公园坐落在两条繁忙的街道之间。",
+    "keywords": [
+      {
+        "english": "park",
+        "translations": [
+          "公园"
+        ]
+      },
+      {
+        "english": "busy streets",
+        "translations": [
+          "繁忙的街道",
+          "繁忙的街"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "日常生活",
+    "source": "拾句原创文章",
+    "license": "项目原创",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-park-2",
+    "articleId": "article-park",
+    "articleTitle": "A Garden for Everyone",
+    "text": "For years, few people stopped there because the garden was full of rubbish.",
+    "reference": "多年来，很少有人在那里停留，因为花园里满是垃圾。",
+    "keywords": [
+      {
+        "english": "few people",
+        "translations": [
+          "很少有人",
+          "很少人"
+        ]
+      },
+      {
+        "english": "rubbish",
+        "translations": [
+          "垃圾"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "日常生活",
+    "source": "拾句原创文章",
+    "license": "项目原创",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-park-3",
+    "articleId": "article-park",
+    "articleTitle": "A Garden for Everyone",
+    "text": "One spring, a group of neighbours decided to clean it together.",
+    "reference": "一个春天，一群邻居决定一起清理它。",
+    "keywords": [
+      {
+        "english": "neighbours",
+        "translations": [
+          "邻居"
+        ]
+      },
+      {
+        "english": "clean",
+        "translations": [
+          "清理",
+          "打扫"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "日常生活",
+    "source": "拾句原创文章",
+    "license": "项目原创",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-park-4",
+    "articleId": "article-park",
+    "articleTitle": "A Garden for Everyone",
+    "text": "They planted flowers, repaired the benches, and invited children to help.",
+    "reference": "他们种花，修理长椅，还邀请孩子们帮忙。",
+    "keywords": [
+      {
+        "english": "planted",
+        "translations": [
+          "种",
+          "栽"
+        ]
+      },
+      {
+        "english": "benches",
+        "translations": [
+          "长椅",
+          "椅子"
+        ]
+      },
+      {
+        "english": "children",
+        "translations": [
+          "孩子",
+          "儿童"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "日常生活",
+    "source": "拾句原创文章",
+    "license": "项目原创",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-park-5",
+    "articleId": "article-park",
+    "articleTitle": "A Garden for Everyone",
+    "text": "Soon, the park became a place where people could meet and relax.",
+    "reference": "不久，公园成了人们见面和放松的地方。",
+    "keywords": [
+      {
+        "english": "meet",
+        "translations": [
+          "见面",
+          "相聚"
+        ]
+      },
+      {
+        "english": "relax",
+        "translations": [
+          "放松",
+          "休息"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "日常生活",
+    "source": "拾句原创文章",
+    "license": "项目原创",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-library-1",
+    "articleId": "article-library",
+    "articleTitle": "A Library After School",
+    "text": "When Lina started university, she found it difficult to manage her time.",
+    "reference": "莉娜刚上大学时，发现管理时间很困难。",
+    "keywords": [
+      {
+        "english": "university",
+        "translations": [
+          "大学"
+        ]
+      },
+      {
+        "english": "manage her time",
+        "translations": [
+          "管理时间",
+          "安排时间"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "学习生活",
+    "source": "拾句原创文章",
+    "license": "项目原创",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-library-2",
+    "articleId": "article-library",
+    "articleTitle": "A Library After School",
+    "text": "She often left her homework until the last minute and felt tired the next day.",
+    "reference": "她经常把作业拖到最后一刻，第二天感到疲惫。",
+    "keywords": [
+      {
+        "english": "homework",
+        "translations": [
+          "作业"
+        ]
+      },
+      {
+        "english": "last minute",
+        "translations": [
+          "最后一刻",
+          "最后一分"
+        ]
+      },
+      {
+        "english": "tired",
+        "translations": [
+          "疲惫",
+          "疲劳",
+          "累"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "学习生活",
+    "source": "拾句原创文章",
+    "license": "项目原创",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-library-3",
+    "articleId": "article-library",
+    "articleTitle": "A Library After School",
+    "text": "A friend suggested making a simple plan before each week began.",
+    "reference": "一位朋友建议她在每周开始前制订一个简单的计划。",
+    "keywords": [
+      {
+        "english": "friend",
+        "translations": [
+          "朋友"
+        ]
+      },
+      {
+        "english": "plan",
+        "translations": [
+          "计划"
+        ]
+      },
+      {
+        "english": "week",
+        "translations": [
+          "周",
+          "星期"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "学习生活",
+    "source": "拾句原创文章",
+    "license": "项目原创",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-library-4",
+    "articleId": "article-library",
+    "articleTitle": "A Library After School",
+    "text": "Lina began to study in the library for an hour after class.",
+    "reference": "莉娜开始课后在图书馆学习一小时。",
+    "keywords": [
+      {
+        "english": "library",
+        "translations": [
+          "图书馆"
+        ]
+      },
+      {
+        "english": "hour",
+        "translations": [
+          "小时"
+        ]
+      },
+      {
+        "english": "after class",
+        "translations": [
+          "课后",
+          "下课后"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "学习生活",
+    "source": "拾句原创文章",
+    "license": "项目原创",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-library-5",
+    "articleId": "article-library",
+    "articleTitle": "A Library After School",
+    "text": "After a few weeks, she had more time to rest and felt more confident.",
+    "reference": "几周后，她有了更多休息时间，也感到更自信了。",
+    "keywords": [
+      {
+        "english": "weeks",
+        "translations": [
+          "周",
+          "星期"
+        ]
+      },
+      {
+        "english": "rest",
+        "translations": [
+          "休息"
+        ]
+      },
+      {
+        "english": "confident",
+        "translations": [
+          "自信"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "学习生活",
+    "source": "拾句原创文章",
+    "license": "项目原创",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-usgs-ocean-1",
+    "articleId": "article-usgs-ocean",
+    "articleTitle": "海底地图 · USGS 新闻节选",
+    "text": "The ocean covers 71% of Earth’s surface.",
+    "reference": "海洋覆盖了地球表面的百分之七十一。",
+    "keywords": [
+      {
+        "english": "ocean",
+        "translations": [
+          "海洋",
+          "海"
+        ]
+      },
+      {
+        "english": "71%",
+        "translations": [
+          "71%",
+          "百分之七十一",
+          "71％"
+        ]
+      },
+      {
+        "english": "surface",
+        "translations": [
+          "表面"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "科学新闻",
+    "source": "美国地质调查局 USGS · 新闻节选",
+    "sourceUrl": "https://www.usgs.gov/news/science-snippet/why-we-have-better-maps-mars-seafloor-and-what-usgs-doing-change",
+    "license": "USGS 编写内容在美国属公共领域",
+    "attribution": "U.S. Geological Survey, November 17, 2023; 选取开头相关段落",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-usgs-ocean-2",
+    "articleId": "article-usgs-ocean",
+    "articleTitle": "海底地图 · USGS 新闻节选",
+    "text": "We know only a small fraction of what the land beneath the waves looks like.",
+    "reference": "我们对海浪下的地形只了解很小一部分。",
+    "keywords": [
+      {
+        "english": "small fraction",
+        "translations": [
+          "很小一部分",
+          "一小部分"
+        ]
+      },
+      {
+        "english": "beneath the waves",
+        "translations": [
+          "海浪下",
+          "海面下",
+          "海底"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "科学新闻",
+    "source": "美国地质调查局 USGS · 新闻节选",
+    "sourceUrl": "https://www.usgs.gov/news/science-snippet/why-we-have-better-maps-mars-seafloor-and-what-usgs-doing-change",
+    "license": "USGS 编写内容在美国属公共领域",
+    "attribution": "U.S. Geological Survey, November 17, 2023; 选取开头相关段落",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-usgs-ocean-3",
+    "articleId": "article-usgs-ocean",
+    "articleTitle": "海底地图 · USGS 新闻节选",
+    "text": "At the root of this is a problem of technology.",
+    "reference": "这一问题的根源在于技术。",
+    "keywords": [
+      {
+        "english": "root",
+        "translations": [
+          "根源",
+          "根本"
+        ]
+      },
+      {
+        "english": "technology",
+        "translations": [
+          "技术"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "科学新闻",
+    "source": "美国地质调查局 USGS · 新闻节选",
+    "sourceUrl": "https://www.usgs.gov/news/science-snippet/why-we-have-better-maps-mars-seafloor-and-what-usgs-doing-change",
+    "license": "USGS 编写内容在美国属公共领域",
+    "attribution": "U.S. Geological Survey, November 17, 2023; 选取开头相关段落",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-usgs-ocean-4",
+    "articleId": "article-usgs-ocean",
+    "articleTitle": "海底地图 · USGS 新闻节选",
+    "text": "The tools we use to image land above water rely on sending and recording wavelengths of light through methods such as satellite imaging or LiDAR.",
+    "reference": "我们用来绘制水面以上陆地影像的工具，依靠卫星成像或激光雷达等方法发射和记录光的波长。",
+    "keywords": [
+      {
+        "english": "tools",
+        "translations": [
+          "工具"
+        ]
+      },
+      {
+        "english": "satellite imaging",
+        "translations": [
+          "卫星成像",
+          "卫星影像"
+        ]
+      },
+      {
+        "english": "light",
+        "translations": [
+          "光"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "科学新闻",
+    "source": "美国地质调查局 USGS · 新闻节选",
+    "sourceUrl": "https://www.usgs.gov/news/science-snippet/why-we-have-better-maps-mars-seafloor-and-what-usgs-doing-change",
+    "license": "USGS 编写内容在美国属公共领域",
+    "attribution": "U.S. Geological Survey, November 17, 2023; 选取开头相关段落",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-usgs-ocean-5",
+    "articleId": "article-usgs-ocean",
+    "articleTitle": "海底地图 · USGS 新闻节选",
+    "text": "These can produce highly accurate and detailed pictures of the surface of the earth in a matter of days.",
+    "reference": "这些方法能在几天内生成高度准确、细致的地表图像。",
+    "keywords": [
+      {
+        "english": "accurate",
+        "translations": [
+          "准确",
+          "精确"
+        ]
+      },
+      {
+        "english": "detailed",
+        "translations": [
+          "细致",
+          "详细"
+        ]
+      },
+      {
+        "english": "days",
+        "translations": [
+          "天",
+          "日"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "科学新闻",
+    "source": "美国地质调查局 USGS · 新闻节选",
+    "sourceUrl": "https://www.usgs.gov/news/science-snippet/why-we-have-better-maps-mars-seafloor-and-what-usgs-doing-change",
+    "license": "USGS 编写内容在美国属公共领域",
+    "attribution": "U.S. Geological Survey, November 17, 2023; 选取开头相关段落",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-usgs-ocean-6",
+    "articleId": "article-usgs-ocean",
+    "articleTitle": "海底地图 · USGS 新闻节选",
+    "text": "But light does not penetrate through seawater beyond the first few hundred feet.",
+    "reference": "但是光穿透海水的深度不会超过最上面的几百英尺。",
+    "keywords": [
+      {
+        "english": "light",
+        "translations": [
+          "光"
+        ]
+      },
+      {
+        "english": "seawater",
+        "translations": [
+          "海水"
+        ]
+      },
+      {
+        "english": "few hundred feet",
+        "translations": [
+          "几百英尺",
+          "数百英尺"
+        ]
+      }
+    ],
+    "level": "advanced",
+    "topic": "科学新闻",
+    "source": "美国地质调查局 USGS · 新闻节选",
+    "sourceUrl": "https://www.usgs.gov/news/science-snippet/why-we-have-better-maps-mars-seafloor-and-what-usgs-doing-change",
+    "license": "USGS 编写内容在美国属公共领域",
+    "attribution": "U.S. Geological Survey, November 17, 2023; 选取开头相关段落",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-usgs-earthquake-1",
+    "articleId": "article-usgs-earthquake",
+    "articleTitle": "加州地震说明 · USGS 官方视频文字说明全文",
+    "text": "USGS Scientist, Bob deGroot, briefly explains what happened during the magnitude 7.0 earthquake that occurred offshore of Mendocino, CA, on December 5, 2024.",
+    "reference": "美国地质调查局科学家鲍勃·德格鲁特简要解释了 2024 年 12 月 5 日加州门多西诺近海发生的 7.0 级地震。",
+    "keywords": [
+      {
+        "english": "scientist",
+        "translations": [
+          "科学家"
+        ]
+      },
+      {
+        "english": "earthquake",
+        "translations": [
+          "地震"
+        ]
+      },
+      {
+        "english": "offshore",
+        "translations": [
+          "近海",
+          "海域"
+        ]
+      },
+      {
+        "english": "December 5, 2024",
+        "translations": [
+          "2024年12月5日",
+          "2024 年 12 月 5 日"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "官方科普",
+    "source": "美国地质调查局 USGS · 视频文字说明",
+    "sourceUrl": "https://www.usgs.gov/media/videos/explained-december-5th-2024-earthquake",
+    "license": "美国公共领域",
+    "attribution": "U.S. Geological Survey，2024 年 12 月 5 日；文字说明全文，音频为系统合成",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-usgs-earthquake-2",
+    "articleId": "article-usgs-earthquake",
+    "articleTitle": "加州地震说明 · USGS 官方视频文字说明全文",
+    "text": "The event occurred in an area called the Triple Junction, where the Pacific, Juan de Fuca, and North American tectonic plates meet.",
+    "reference": "这次地震发生在一个名为三重交汇处的区域，太平洋板块、胡安德富卡板块和北美板块在这里相接。",
+    "keywords": [
+      {
+        "english": "Triple Junction",
+        "translations": [
+          "三重交汇",
+          "三联点"
+        ]
+      },
+      {
+        "english": "plates",
+        "translations": [
+          "板块"
+        ]
+      },
+      {
+        "english": "meet",
+        "translations": [
+          "相接",
+          "交汇",
+          "汇合"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "官方科普",
+    "source": "美国地质调查局 USGS · 视频文字说明",
+    "sourceUrl": "https://www.usgs.gov/media/videos/explained-december-5th-2024-earthquake",
+    "license": "美国公共领域",
+    "attribution": "U.S. Geological Survey，2024 年 12 月 5 日；文字说明全文，音频为系统合成",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-usgs-earthquake-3",
+    "articleId": "article-usgs-earthquake",
+    "articleTitle": "加州地震说明 · USGS 官方视频文字说明全文",
+    "text": "Emergency systems activated and provided people living along the northern coast of California time to respond in the case of a tsunami, which did not happen.",
+    "reference": "应急系统启动，为居住在加州北部海岸的人们预留了应对海啸的时间，但海啸并未发生。",
+    "keywords": [
+      {
+        "english": "Emergency systems",
+        "translations": [
+          "应急系统",
+          "紧急系统"
+        ]
+      },
+      {
+        "english": "time",
+        "translations": [
+          "时间"
+        ]
+      },
+      {
+        "english": "tsunami",
+        "translations": [
+          "海啸"
+        ]
+      },
+      {
+        "english": "did not happen",
+        "translations": [
+          "未发生",
+          "没有发生",
+          "没发生"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "官方科普",
+    "source": "美国地质调查局 USGS · 视频文字说明",
+    "sourceUrl": "https://www.usgs.gov/media/videos/explained-december-5th-2024-earthquake",
+    "license": "美国公共领域",
+    "attribution": "U.S. Geological Survey，2024 年 12 月 5 日；文字说明全文，音频为系统合成",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-usgs-earthquake-4",
+    "articleId": "article-usgs-earthquake",
+    "articleTitle": "加州地震说明 · USGS 官方视频文字说明全文",
+    "text": "People throughout Oregon and California received alerts to their phones via shakealert.org.",
+    "reference": "俄勒冈州和加州各地的人们通过 ShakeAlert 网站在手机上收到了警报。",
+    "keywords": [
+      {
+        "english": "Oregon",
+        "translations": [
+          "俄勒冈"
+        ]
+      },
+      {
+        "english": "California",
+        "translations": [
+          "加州",
+          "加利福尼亚"
+        ]
+      },
+      {
+        "english": "alerts",
+        "translations": [
+          "警报",
+          "提醒"
+        ]
+      },
+      {
+        "english": "phones",
+        "translations": [
+          "手机"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "官方科普",
+    "source": "美国地质调查局 USGS · 视频文字说明",
+    "sourceUrl": "https://www.usgs.gov/media/videos/explained-december-5th-2024-earthquake",
+    "license": "美国公共领域",
+    "attribution": "U.S. Geological Survey，2024 年 12 月 5 日；文字说明全文，音频为系统合成",
+    "audioSource": "tts"
+  },
+  {
+    "id": "article-usgs-earthquake-5",
+    "articleId": "article-usgs-earthquake",
+    "articleTitle": "加州地震说明 · USGS 官方视频文字说明全文",
+    "text": "Sign up for alerts for future events at shakealert.org and see more information on historic earthquakes at earthquake.usgs.gov.",
+    "reference": "可在 shakealert.org 注册接收未来事件的警报，并在 earthquake.usgs.gov 了解更多历史地震信息。",
+    "keywords": [
+      {
+        "english": "alerts",
+        "translations": [
+          "警报",
+          "提醒"
+        ]
+      },
+      {
+        "english": "future",
+        "translations": [
+          "未来"
+        ]
+      },
+      {
+        "english": "historic earthquakes",
+        "translations": [
+          "历史地震",
+          "过去的地震"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "官方科普",
+    "source": "美国地质调查局 USGS · 视频文字说明",
+    "sourceUrl": "https://www.usgs.gov/media/videos/explained-december-5th-2024-earthquake",
+    "license": "美国公共领域",
+    "attribution": "U.S. Geological Survey，2024 年 12 月 5 日；文字说明全文，音频为系统合成",
+    "audioSource": "tts"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "name": "english-study-assistant",
+  "version": "0.2.5",
+  "private": true,
+  "description": "本地优先的英语学习助手",
+  "type": "module",
+  "main": "desktop/main.cjs",
+  "scripts": {
+    "dev": "vite --config vite.config.mjs",
+    "server": "node server/index.mjs",
+    "build": "vite build --config vite.config.mjs",
+    "start": "electron .",
+    "test": "node --test server/*.test.mjs",
+    "dist": "npm run build && electron-builder --win nsis --x64",
+    "pack": "npm run build && electron-builder --dir --win --x64"
+  },
+  "dependencies": {
+    "fflate": "0.8.3",
+    "hls.js": "1.7.4",
+    "lucide-react": "1.70.0",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "electron": "45.2.3",
+    "electron-builder": "26.18.0",
+    "vite": "8.3.6"
+  },
+  "build": {
+    "appId": "local.english-study.assistant",
+    "productName": "英语学习助手",
+    "directories": {
+      "output": "release"
+    },
+    "electronDist": "node_modules/electron/dist",
+    "asarUnpack": [
+      "desktop/selection.ps1"
+    ],
+    "files": [
+      "desktop/**/*",
+      "!desktop/tests/**/*",
+      "server/**/*",
+      "!server/*.test.mjs",
+      "frontend/dist/**/*",
+      "data/**/*",
+      "vendor/**/*",
+      "THIRD_PARTY_NOTICES.md",
+      "package.json"
+    ],
+    "win": {
+      "target": "nsis",
+      "signAndEditExecutable": false
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "johnfactotum/foliate-js": {
+    "ref": "main",
+    "archiveSha256": "935a823e41de4e7c2f82c88a226edc8a6f76f9d9608284d2ea513dc38a35cafd"
+  },
+  "skywind3000/ECDICT": {
+    "ref": "master",
+    "csvSha256": "d1ecbdf9ee2b920afb6f430ca6b6bb9f559588cf0dff86e04bd255f9390843cc"
+  }
+}

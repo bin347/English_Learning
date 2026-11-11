@@ -1,0 +1,64 @@
+import { test } from 'node:test';
+import assert from 'node:assert/strict';
+import { mkdtemp, readFile, writeFile, rm } from 'node:fs/promises';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
+import { unzipSync, strFromU8 } from 'fflate';
+import { startServer } from './index.mjs';
+
+test('complete Alice EPUB is installed once while legacy references and backups survive',async()=>{
+  const dir=await mkdtemp(join(tmpdir(),'shiju-builtin-'));
+  let server=await startServer({dataDir:dir});
+  const call=async(path,method='GET',body)=>{
+    const response=await fetch(server.url+'/api'+path,{method,headers:{'Content-Type':'application/json'},body:body?JSON.stringify(body):undefined});
+    assert.ok(response.ok,await response.clone().text()); return response.json();
+  };
+  try {
+    const first=await call('/bootstrap'), alice=first.books.find(book=>book.catalogId===11);
+    assert.equal(first.books.filter(book=>!book.hiddenSample).length,1);
+    assert.equal(alice.title,'Alice’s Adventures in Wonderland');
+    assert.equal(alice.format,'epub');
+    const file=await fetch(server.url+'/api/books/'+alice.id+'/file');
+    const bytes=new Uint8Array(await file.arrayBuffer());
+    assert.equal(file.status,200); assert.ok(bytes.length>100000);
+    const zip=unzipSync(bytes), toc=strFromU8(zip['OEBPS/toc.ncx']);
+    assert.match(toc,/Down the Rabbit-Hole/i); assert.match(toc,/Alice.s Evidence/i);
+    assert.match(strFromU8(zip['OEBPS/4040227324556390537_11-h-12.htm.html']),/FULL PROJECT GUTENBERG LICENSE/i);
+    const custom=await call('/books','POST',{title:'My own book',text:'A personal book.',format:'txt'});
+    await call('/books/welcome','PATCH',{progress:0.5,location:'t:10'});
+    const word=await call('/words','POST',{word:'garden',meaning:'花园',bookId:'welcome',location:'t:10'});
+    let oldBackup=await call('/backup');
+    oldBackup.books=oldBackup.books.filter(book=>book.id!==alice.id);
+    oldBackup.books.forEach(book=>delete book.hiddenSample);
+    delete oldBackup.builtinBooksVersion; delete oldBackup.files[alice.id];
+    await server.close();
+    const oldData={...oldBackup}; delete oldData.files; delete oldData.version;
+    await writeFile(join(dir,'data.json'),JSON.stringify(oldData));
+    server=await startServer({dataDir:dir});
+    let migrated=await call('/bootstrap');
+    assert.ok(migrated.books.find(book=>book.id==='welcome').hiddenSample);
+    assert.equal(migrated.books.find(book=>book.id==='welcome').location,'t:10');
+    assert.ok(migrated.words.some(item=>item.id===word.id && item.bookId==='welcome'));
+    assert.ok(migrated.exercises.some(item=>item.id==='welcome-exercise' && item.bookId==='welcome'));
+    assert.ok(migrated.books.some(book=>book.id===custom.id && !book.hiddenSample));
+    assert.equal(migrated.books.filter(book=>book.catalogId===11).length,1);
+    await call('/restore','POST',oldBackup);
+    migrated=await call('/bootstrap');
+    assert.ok(migrated.books.find(book=>book.id==='welcome').hiddenSample);
+    assert.ok(migrated.books.some(book=>book.id===custom.id));
+    assert.equal(migrated.books.filter(book=>book.catalogId===11).length,1);
+    const alreadyImported=structuredClone(oldBackup);
+    const existing=alreadyImported.books.find(book=>book.id===custom.id);
+    Object.assign(existing,{catalogId:11,title:'Alice’s Adventures in Wonderland'});
+    await call('/restore','POST',alreadyImported);
+    migrated=await call('/bootstrap');
+    assert.equal(migrated.books.filter(book=>book.catalogId===11).length,1);
+    assert.equal(migrated.books.find(book=>book.catalogId===11).id,custom.id);
+    await call('/restore','POST',oldBackup);
+    migrated=await call('/bootstrap');
+    const currentAlice=migrated.books.find(book=>book.catalogId===11);
+    await call('/books/'+currentAlice.id,'DELETE');
+    await server.close();server=await startServer({dataDir:dir});
+    assert.equal((await call('/bootstrap')).books.filter(book=>book.catalogId===11).length,0);
+  } finally { await server.close(); await rm(dir,{recursive:true,force:true}); }
+});

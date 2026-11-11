@@ -1,0 +1,246 @@
+[
+  {
+    "id": "librispeech-1272-135031-0003",
+    "text": "The little girl had been asleep, but she heard the raps and opened the door.",
+    "reference": "小女孩原本睡着了，但她听见敲门声，便打开了门。",
+    "keywords": [
+      {
+        "english": "little girl",
+        "translations": [
+          "小女孩",
+          "女孩"
+        ]
+      },
+      {
+        "english": "asleep",
+        "translations": [
+          "睡着",
+          "睡觉"
+        ]
+      },
+      {
+        "english": "heard the raps",
+        "translations": [
+          "听见敲门",
+          "听到敲门",
+          "听见敲击",
+          "听到敲击"
+        ]
+      },
+      {
+        "english": "opened the door",
+        "translations": [
+          "打开门",
+          "开了门",
+          "把门打开"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "真人朗读 · 小说对白",
+    "source": "LibriSpeech · 真人朗读",
+    "sourceUrl": "https://www.openslr.org/12/",
+    "license": "CC BY 4.0",
+    "attribution": "LibriSpeech（Vassil Panayotov 等），LibriVox 朗读者 John Rose；原著 L. Frank Baum，《Tik-Tok of Oz》第 19 章",
+    "audioUrl": "/audio/1272-135031-0003.flac"
+  },
+  {
+    "id": "librispeech-1272-135031-0004",
+    "text": "The king has fled in disgrace, and your friends are asking for you.",
+    "reference": "国王狼狈地逃走了，你的朋友们正在找你。",
+    "keywords": [
+      {
+        "english": "king",
+        "translations": [
+          "国王"
+        ]
+      },
+      {
+        "english": "fled",
+        "translations": [
+          "逃走",
+          "逃跑",
+          "逃了"
+        ]
+      },
+      {
+        "english": "disgrace",
+        "translations": [
+          "狼狈",
+          "丢脸",
+          "耻辱"
+        ]
+      },
+      {
+        "english": "friends",
+        "translations": [
+          "朋友"
+        ]
+      },
+      {
+        "english": "asking for you",
+        "translations": [
+          "找你",
+          "寻找你"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "真人朗读 · 小说对白",
+    "source": "LibriSpeech · 真人朗读",
+    "sourceUrl": "https://www.openslr.org/12/",
+    "license": "CC BY 4.0",
+    "attribution": "LibriSpeech（Vassil Panayotov 等），LibriVox 朗读者 John Rose；原著 L. Frank Baum，《Tik-Tok of Oz》第 19 章",
+    "audioUrl": "/audio/1272-135031-0004.flac"
+  },
+  {
+    "id": "librispeech-1272-135031-0006",
+    "text": "I also offered to help your brother to escape, but he would not go.",
+    "reference": "我也提出帮你的兄弟逃走，但他不愿离开。",
+    "keywords": [
+      {
+        "english": "offered",
+        "translations": [
+          "提出",
+          "主动"
+        ]
+      },
+      {
+        "english": "help your brother",
+        "translations": [
+          "帮你的兄弟",
+          "帮助你的兄弟",
+          "帮你兄弟"
+        ]
+      },
+      {
+        "english": "escape",
+        "translations": [
+          "逃走",
+          "逃跑",
+          "逃脱"
+        ]
+      },
+      {
+        "english": "would not go",
+        "translations": [
+          "不愿离开",
+          "不愿走",
+          "不肯走",
+          "不愿意走",
+          "不肯离开"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "真人朗读 · 小说对白",
+    "source": "LibriSpeech · 真人朗读",
+    "sourceUrl": "https://www.openslr.org/12/",
+    "license": "CC BY 4.0",
+    "attribution": "LibriSpeech（Vassil Panayotov 等），LibriVox 朗读者 John Rose；原著 L. Frank Baum，《Tik-Tok of Oz》第 19 章",
+    "audioUrl": "/audio/1272-135031-0006.flac"
+  },
+  {
+    "id": "librispeech-1272-135031-0008",
+    "text": "I hope he doesn't work too hard, said Shaggy.",
+    "reference": "沙吉说：“我希望他工作不要太辛苦。”",
+    "keywords": [
+      {
+        "english": "hope",
+        "translations": [
+          "希望"
+        ]
+      },
+      {
+        "english": "work too hard",
+        "translations": [
+          "工作太辛苦",
+          "工作太累",
+          "工作过于辛苦",
+          "工作太努力"
+        ]
+      },
+      {
+        "english": "Shaggy",
+        "translations": [
+          "沙吉"
+        ]
+      }
+    ],
+    "level": "intermediate",
+    "topic": "真人朗读 · 小说对白",
+    "source": "LibriSpeech · 真人朗读",
+    "sourceUrl": "https://www.openslr.org/12/",
+    "license": "CC BY 4.0",
+    "attribution": "LibriSpeech（Vassil Panayotov 等），LibriVox 朗读者 John Rose；原著 L. Frank Baum，《Tik-Tok of Oz》第 19 章",
+    "audioUrl": "/audio/1272-135031-0008.flac"
+  },
+  {
+    "id": "librispeech-1272-135031-0009",
+    "text": "He doesn't work at all.",
+    "reference": "他根本不工作。",
+    "keywords": [
+      {
+        "english": "does not work",
+        "translations": [
+          "不工作",
+          "不干活",
+          "没有工作",
+          "没工作"
+        ]
+      },
+      {
+        "english": "at all",
+        "translations": [
+          "根本",
+          "完全",
+          "一点也"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "真人朗读 · 小说对白",
+    "source": "LibriSpeech · 真人朗读",
+    "sourceUrl": "https://www.openslr.org/12/",
+    "license": "CC BY 4.0",
+    "attribution": "LibriSpeech（Vassil Panayotov 等），LibriVox 朗读者 John Rose；原著 L. Frank Baum，《Tik-Tok of Oz》第 19 章",
+    "audioUrl": "/audio/1272-135031-0009.flac"
+  },
+  {
+    "id": "librispeech-1272-135031-0012",
+    "text": "Where is my brother now?",
+    "reference": "我兄弟现在在哪里？",
+    "keywords": [
+      {
+        "english": "brother",
+        "translations": [
+          "兄弟",
+          "哥哥",
+          "弟弟"
+        ]
+      },
+      {
+        "english": "now",
+        "translations": [
+          "现在",
+          "如今"
+        ]
+      },
+      {
+        "english": "where",
+        "translations": [
+          "哪里",
+          "哪儿",
+          "什么地方"
+        ]
+      }
+    ],
+    "level": "beginner",
+    "topic": "真人朗读 · 小说对白",
+    "source": "LibriSpeech · 真人朗读",
+    "sourceUrl": "https://www.openslr.org/12/",
+    "license": "CC BY 4.0",
+    "attribution": "LibriSpeech（Vassil Panayotov 等），LibriVox 朗读者 John Rose；原著 L. Frank Baum，《Tik-Tok of Oz》第 19 章",
+    "audioUrl": "/audio/1272-135031-0012.flac"
+  }
+]
