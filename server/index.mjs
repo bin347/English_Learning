@@ -34,6 +34,7 @@ const seed = () => ({
 export async function startServer({ dataDir, port = 0, staticDir, translationFetch = fetch, aiFetch = fetch, newsFetch = fetch }) {
   const webTranslators = createWebTranslators(translationFetch);
   const dictionary = JSON.parse(await readFile(new URL('../data/dictionary.json', import.meta.url), 'utf8'));
+  const vocabularyPhrases = JSON.parse(await readFile(new URL('../data/vocabulary-phrases.json', import.meta.url), 'utf8'));
   const forms = new Map();
   for (const entry of Object.values(dictionary)) {
     entry.meanings = entry.meanings.flatMap(meaning=>meaning.replaceAll('\\r','').split('\\n'));
@@ -262,6 +263,10 @@ export async function startServer({ dataDir, port = 0, staticDir, translationFet
         }
         if (p === '/api/dictionary/similar' && method === 'GET') {
           return send(res,200,{words:similarWords(url.searchParams.get('q') || '',dictionary,vocabulary)});
+        }
+        if (p === '/api/dictionary/phrases' && method === 'GET') {
+          const word = (url.searchParams.get('q') || '').trim().toLowerCase();
+          return send(res,200,{phrases:Object.hasOwn(vocabularyPhrases,word) ? vocabularyPhrases[word] : []});
         }
         if (p === '/api/dictionary/batch' && method === 'POST') {
           const b=await readBody(req);

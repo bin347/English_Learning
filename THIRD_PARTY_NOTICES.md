@@ -8,6 +8,8 @@
   https://github.com/johnfactotum/foliate-js
 - ECDICT：skywind3000 及贡献者，MIT。应用筛选常用词频、BNC 和考试标签词条，保留中文释义、词形等字段；许可见 `data/ECDICT-LICENSE.txt`。
   https://github.com/skywind3000/ECDICT
+- 单词词组搭配：整理自 KyleBing/english-vocabulary 的 JSON 词书（提交 `731240a848dca14e2cf17510f384312b788863c1`），仓库标注 BSD 3-Clause；保留许可见 `data/ENGLISH-VOCABULARY-LICENSE.txt`。数据按词条合并、过滤并限制展示数量，另包含项目手工整理的少量词组。其上游 kajweb/dict 自述数据抓取自商业背词应用，原始内容的再分发授权尚未核实，公开分发前应自行核对；词组与译文未经逐条校对。
+  https://github.com/KyleBing/english-vocabulary / https://github.com/kajweb/dict
 - 下载快照的哈希见 `data/upstream-versions.json`。React、Electron、Vite、lucide-react、hls.js 等依赖的许可随 npm 包保留；具体版本见 `package-lock.json`。Electron 安装目录保留运行时许可证。
 - 内置的三篇短文、练习及字幕样例为本项目编写的示例材料。
 

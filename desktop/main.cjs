@@ -92,10 +92,10 @@ app.whenReady().then(async () => {
   const { startServer } = await import(pathToFileURL(path.join(__dirname, '..', 'server', 'index.mjs')).href);
   server = await startServer({ dataDir: app.getPath('userData'), port: 0, staticDir: path.join(__dirname, '..', 'frontend', 'dist'), translationFetch: (url, options) => net.fetch(String(url), options), aiFetch: (url, options) => net.fetch(String(url), options), newsFetch: (url, options) => net.fetch(String(url), options) });
   tray = new Tray(icon); tray.setToolTip('英语学习助手');
-  function updateTray() { tray.setContextMenu(Menu.buildFromTemplate([{ label: '打开主窗口', click: showMain }, { label: '查询剪贴板文本', click: () => { selectionSource = '剪贴板'; selectionUrl = ''; showSelection(clipboard.readText()); } }, { label: paused ? '恢复划词' : '暂停划词', click: () => { paused = !paused; if (paused) trigger?.destroy(); updateTray(); } }, { type: 'separator' }, { label: '退出', click: () => { app.quitting = true; app.quit(); } }])); }
+  function updateTray() { tray.setContextMenu(Menu.buildFromTemplate([{ label: '打开主窗口', click: showMain }, { label: '查询剪贴板文本', click: async () => { selectionSource = '剪贴板'; selectionUrl = ''; showSelection(await clipboard.readText()); } }, { label: paused ? '恢复划词' : '暂停划词', click: () => { paused = !paused; if (paused) trigger?.destroy(); updateTray(); } }, { type: 'separator' }, { label: '退出', click: () => { app.quitting = true; app.quit(); } }])); }
   updateTray();
   tray.on('double-click', showMain);
-  globalShortcut.register('CommandOrControl+Shift+E', () => { selectionSource = '剪贴板'; selectionUrl = ''; showSelection(clipboard.readText()); });
+  globalShortcut.register('CommandOrControl+Shift+E', async () => { selectionSource = '剪贴板'; selectionUrl = ''; showSelection(await clipboard.readText()); });
   ipcMain.handle('open-news', async (event, url, bounds) => {
     if (event.sender !== mainWindow?.webContents) throw new Error('新闻入口无效');
     await openNews(url, bounds);

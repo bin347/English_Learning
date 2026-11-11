@@ -31,6 +31,11 @@ with tempfile.TemporaryDirectory(prefix='shiju-vocabulary-test-') as data_dir:
             quiz.get_by_role('button', name='提交答案').click()
             expect(quiz.get_by_text('回答正确！')).to_be_visible()
             expect(quiz.get_by_text('完整释义：', exact=False)).to_be_visible()
+            phrases = quiz.locator('.vocabulary-phrases')
+            expect(phrases).to_contain_text('state of mind')
+            expect(phrases).to_contain_text('心态')
+            assert page.request.get(base+'/api/dictionary/phrases?q=ability').json()['phrases']
+            assert not page.request.get(base+'/api/dictionary/phrases?q=__proto__').json()['phrases']
             expect(similar.get_by_role('heading', name='拼写近似词')).to_be_visible()
             expect(similar.locator('dt')).to_have_count(3)
             assert all(text.strip() for text in similar.locator('dd').all_text_contents())
@@ -45,10 +50,15 @@ with tempfile.TemporaryDirectory(prefix='shiju-vocabulary-test-') as data_dir:
             quiz.get_by_label('中文意思').fill('完全不知道')
             quiz.get_by_role('button', name='提交答案').click()
             expect(quiz.get_by_text('已加入生词本', exact=False)).to_be_visible()
-            expect(similar).to_have_count(0)
+            expect(quiz.get_by_text('完整释义：', exact=False)).to_be_visible()
+            expect(phrases.get_by_role('heading', name='词组搭配')).to_be_visible()
+            if page.request.get(base+'/api/dictionary/similar', params={'q':word}).json()['words']:
+                expect(similar.get_by_role('heading', name='拼写近似词')).to_be_visible()
+            expect(page.get_by_label('词书').locator('option[value="saved"]')).to_have_text('我的生词本 · 1 词')
             assert any(w['word'] == word for w in page.request.get(base+'/api/bootstrap').json()['words'])
             quiz.get_by_role('button', name='我答对了，纠正误判').click()
             expect(quiz.get_by_text('已按回答正确处理。')).to_be_visible()
+            expect(page.get_by_label('词书').locator('option[value="saved"]')).to_have_text('我的生词本 · 0 词')
             assert not any(w['word'] == word for w in page.request.get(base+'/api/bootstrap').json()['words'])
             quiz.get_by_role('button', name='下一词', exact=True).click()
             options = quiz.locator('.choices button')
@@ -69,7 +79,8 @@ with tempfile.TemporaryDirectory(prefix='shiju-vocabulary-test-') as data_dir:
             wrong = next(choice['meaning'] for choice in choices if choice['word'] != word)
             options.get_by_text(wrong, exact=True).click()
             expect(quiz.get_by_text('已加入生词本', exact=False)).to_be_visible()
-            expect(similar).to_have_count(0)
+            expect(quiz.get_by_text('完整释义：', exact=False)).to_be_visible()
+            expect(phrases.get_by_role('heading', name='词组搭配')).to_be_visible()
             assert any(w['word'] == word for w in page.request.get(base+'/api/bootstrap').json()['words'])
             with page.expect_response(choices_url) as response:
                 quiz.get_by_role('button', name='下一词', exact=True).click()
